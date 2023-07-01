@@ -1,2 +1,2 @@
-# viff
-Visual file system tree diff
+# d3-folder-tree
+A d3-based collapsible folder/file tree view.
