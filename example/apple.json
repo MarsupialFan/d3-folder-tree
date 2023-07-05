@@ -1,0 +1,2744 @@
+{
+    "name": "Apple computers",
+    "children": [
+        {
+            "name": "MC68000",
+            "info": "MC68000 based computers",
+            "children": [
+                {
+                    "name": "Lisa",
+                    "info": "Lisa machines based on MC68000",
+                    "children": [
+                        {
+                            "name": "Lisa",
+                            "info": "Clock speed (MHz): 5\nFSB speed (MT/s): 5\nIntroduced: January 1983\nDiscontinued: January 1984"
+                        },
+                        {
+                            "name": "Lisa 2",
+                            "info": "Clock speed (MHz): 5\nFSB speed (MT/s): 5\nIntroduced: January 1984\nDiscontinued: January 1985"
+                        }
+                    ]
+                },
+                {
+                    "name": "Macintosh",
+                    "info": "Macintosh machines based on MC68000",
+                    "children": [
+                        {
+                            "name": "Macintosh",
+                            "info": "Clock speed (MHz): 8\nFSB speed (MT/s): 8\nIntroduced: January 1984\nDiscontinued: October 1985"
+                        },
+                        {
+                            "name": "Macintosh 512K",
+                            "info": "Clock speed (MHz): 8\nFSB speed (MT/s): 8\nIntroduced: September 1984\nDiscontinued: April 1986"
+                        },
+                        {
+                            "name": "Macintosh XL",
+                            "info": "Clock speed (MHz): 5\nFSB speed (MT/s): 5\nIntroduced: January 1985\nDiscontinued: April 1985"
+                        },
+                        {
+                            "name": "Macintosh Plus",
+                            "info": "Clock speed (MHz): 8\nFSB speed (MT/s): 8\nIntroduced: January 1986\nDiscontinued: October 1990"
+                        },
+                        {
+                            "name": "Macintosh 512Ke",
+                            "info": "Clock speed (MHz): 8\nFSB speed (MT/s): 8\nIntroduced: April 1986\nDiscontinued: September 1987"
+                        },
+                        {
+                            "name": "Macintosh SE",
+                            "info": "Clock speed (MHz): 8\nFSB speed (MT/s): 8\nIntroduced: March 1987\nDiscontinued: August 1989"
+                        },
+                        {
+                            "name": "Macintosh SE FDHD",
+                            "info": "Clock speed (MHz): 8\nFSB speed (MT/s): 8\nIntroduced: August 1989\nDiscontinued: October 1990"
+                        },
+                        {
+                            "name": "Macintosh Classic",
+                            "info": "Clock speed (MHz): 8\nFSB speed (MT/s): 8\nIntroduced: October 1990\nDiscontinued: September 1992"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MC68HC000",
+            "info": "MC68HC000 based computers",
+            "children": [
+                {
+                    "name": "Macintosh",
+                    "info": "Macintosh machines based on MC68HC000",
+                    "children": [
+                        {
+                            "name": "Macintosh Portable",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nIntroduced: September 1989\nDiscontinued: October 1991"
+                        }
+                    ]
+                },
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on MC68HC000",
+                    "children": [
+                        {
+                            "name": "PowerBook 100",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nIntroduced: October 1991\nDiscontinued: August 1992"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MC68020",
+            "info": "MC68020 based computers",
+            "children": [
+                {
+                    "name": "Macintosh",
+                    "info": "Macintosh machines based on MC68020",
+                    "children": [
+                        {
+                            "name": "Macintosh II",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nL1 cache (bytes): 256\nData path width/ Address width (bits): 32/16\nPMMU: 68851 (optional)\nFPU: 68881\nIntroduced: March 1987\nDiscontinued: January 1990"
+                        },
+                        {
+                            "name": "Macintosh LC",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nL1 cache (bytes): 256\nData path width/ Address width (bits): 16/16\nPMMU: —\nFPU: —\nIntroduced: October 1990\nDiscontinued: March 1992"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MC68030",
+            "info": "MC68030 based computers",
+            "children": [
+                {
+                    "name": "Macintosh",
+                    "info": "Macintosh machines based on MC68030",
+                    "children": [
+                        {
+                            "name": "Macintosh IIx",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882\nIntroduced: September 1988\nDiscontinued: October 1990"
+                        },
+                        {
+                            "name": "Macintosh SE/30",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882\nIntroduced: January 1989\nDiscontinued: October 1990"
+                        },
+                        {
+                            "name": "Macintosh IIcx",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882\nIntroduced: March 1989\nDiscontinued: February 1991"
+                        },
+                        {
+                            "name": "Macintosh IIci",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (bytes): 512\nL2 cache (KB): 0–32\nData path width/ Address width (bits): 32/32\nFPU: 68882\nIntroduced: September 1989\nDiscontinued: February 1993"
+                        },
+                        {
+                            "name": "Macintosh IIfx",
+                            "info": "Clock speed (MHz): 40\nFSB speed (MT/s): 40\nL1 cache (bytes): 512\nL2 cache (KB): 32\nData path width/ Address width (bits): 32/32\nFPU: 68882\nIntroduced: March 1990\nDiscontinued: April 1992"
+                        },
+                        {
+                            "name": "Macintosh IIsi",
+                            "info": "Clock speed (MHz): 20\nFSB speed (MT/s): 20\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882 (optional)\nIntroduced: October 1990\nDiscontinued: March 1993"
+                        },
+                        {
+                            "name": "Macintosh Classic II Performa 200",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 16/32\nFPU: —\nIntroduced: October 1991\nDiscontinued: September 1993"
+                        },
+                        {
+                            "name": "Macintosh LC II Performa 400 Performa 405 Performa 410 Performa 430",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 16/32\nFPU: —\nIntroduced: March 1992\nDiscontinued: March 1993"
+                        },
+                        {
+                            "name": "Macintosh IIvi",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nL1 cache (bytes): 512\nL2 cache (KB): 32\nData path width/ Address width (bits): 32/32\nFPU: 68882 (optional)\nIntroduced: October 1992\nDiscontinued: February 1993"
+                        },
+                        {
+                            "name": "Macintosh IIvx",
+                            "info": "Clock speed (MHz): 32\nFSB speed (MT/s): 16\nL1 cache (bytes): 512\nL2 cache (KB): 32\nData path width/ Address width (bits): 32/32\nFPU: 68882\nIntroduced: October 1992\nDiscontinued: October 1993"
+                        },
+                        {
+                            "name": "Macintosh Color Classic Performa 250 Performa 275",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 16/32\nFPU: 68882 (optional)\nIntroduced: February 1993\nDiscontinued: May 1994"
+                        },
+                        {
+                            "name": "Macintosh LC III Performa 450",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882 (optional)\nIntroduced: February 1993\nDiscontinued: February 1994"
+                        },
+                        {
+                            "name": "Macintosh LC 520",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882 (optional)\nIntroduced: June 1993\nDiscontinued: February 1994"
+                        },
+                        {
+                            "name": "Macintosh LC III+ Performa 460 Performa 466 Performa 467",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882 (optional)\nIntroduced: October 1993\nDiscontinued: February 1994"
+                        },
+                        {
+                            "name": "Macintosh Color Classic II",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882 (optional)\nIntroduced: October 1993\nDiscontinued: May 1994"
+                        },
+                        {
+                            "name": "Macintosh TV",
+                            "info": "Clock speed (MHz): 32\nFSB speed (MT/s): 16\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: —\nIntroduced: October 1993\nDiscontinued: February 1994"
+                        },
+                        {
+                            "name": "Macintosh LC 550 Performa 550 Performa 560",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882 (optional)\nIntroduced: February 1994\nDiscontinued: March 1995"
+                        }
+                    ]
+                },
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on MC68030",
+                    "children": [
+                        {
+                            "name": "PowerBook 140",
+                            "info": "Clock speed (MHz): 16\nFSB speed (MT/s): 16\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: —\nIntroduced: October 1991\nDiscontinued: August 1992"
+                        },
+                        {
+                            "name": "PowerBook 170",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882\nIntroduced: October 1991\nDiscontinued: October 1992"
+                        },
+                        {
+                            "name": "PowerBook 145",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: —\nIntroduced: August 1992\nDiscontinued: June 1993"
+                        },
+                        {
+                            "name": "PowerBook 160",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: —\nIntroduced: October 1992\nDiscontinued: August 1993"
+                        },
+                        {
+                            "name": "PowerBook 180",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882\nIntroduced: October 1992\nDiscontinued: May 1994"
+                        },
+                        {
+                            "name": "PowerBook Duo 210",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: —\nIntroduced: October 1992\nDiscontinued: October 1993"
+                        },
+                        {
+                            "name": "PowerBook Duo 230",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: —\nIntroduced: October 1992\nDiscontinued: July 1994"
+                        },
+                        {
+                            "name": "PowerBook 165c",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882\nIntroduced: February 1993\nDiscontinued: December 1993"
+                        },
+                        {
+                            "name": "PowerBook 180c",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882\nIntroduced: June 1993\nDiscontinued: March 1994"
+                        },
+                        {
+                            "name": "PowerBook 145B",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: —\nIntroduced: July 1993\nDiscontinued: July 1994"
+                        },
+                        {
+                            "name": "PowerBook 165",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: —\nIntroduced: August 1993\nDiscontinued: July 1994"
+                        },
+                        {
+                            "name": "PowerBook Duo 250",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: —\nIntroduced: October 1993\nDiscontinued: May 1994"
+                        },
+                        {
+                            "name": "PowerBook Duo 270c",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: 68882\nIntroduced: October 1993\nDiscontinued: April 1994"
+                        },
+                        {
+                            "name": "PowerBook 150",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (bytes): 512\nL2 cache (KB): —\nData path width/ Address width (bits): 32/32\nFPU: —\nIntroduced: July 1994\nDiscontinued: October 1995"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performa",
+                    "info": "Performa machines based on MC68030",
+                    "children": [
+                        {
+                            "name": "Performa 600/600CD",
+                            "info": "Clock speed (MHz): 32\nFSB speed (MT/s): 16\nL1 cache (bytes): 512\nL2 cache (KB): 32\nData path width/ Address width (bits): 32/32\nFPU: 68882 (optional)\nIntroduced: September 1992\nDiscontinued: October 1993"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MC68040",
+            "info": "MC68040 based computers",
+            "children": [
+                {
+                    "name": "Macintosh Quadra",
+                    "info": "Macintosh Quadra machines based on MC68040",
+                    "children": [
+                        {
+                            "name": "Macintosh Quadra 700",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (KB): 8\nIntroduced: October 1991\nDiscontinued: March 1993"
+                        },
+                        {
+                            "name": "Macintosh Quadra 900",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (KB): 8\nIntroduced: October 1991\nDiscontinued: May 1992"
+                        },
+                        {
+                            "name": "Macintosh Quadra 950",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: May 1992\nDiscontinued: October 1995"
+                        },
+                        {
+                            "name": "Macintosh Quadra 800 Workgroup Server 80",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: February 1993\nDiscontinued: March 1994"
+                        },
+                        {
+                            "name": "Macintosh Quadra 840AV",
+                            "info": "Clock speed (MHz): 40\nFSB speed (MT/s): 40\nL1 cache (KB): 8\nIntroduced: July 1993\nDiscontinued: July 1994"
+                        },
+                        {
+                            "name": "Macintosh Quadra 610",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (KB): 8\nIntroduced: October 1993\nDiscontinued: July 1994"
+                        },
+                        {
+                            "name": "Macintosh Quadra 650",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: October 1993\nDiscontinued: September 1994"
+                        },
+                        {
+                            "name": "Macintosh Quadra 630",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: July 1994\nDiscontinued: October 1995"
+                        }
+                    ]
+                },
+                {
+                    "name": "Macintosh",
+                    "info": "Macintosh machines based on MC68040",
+                    "children": [
+                        {
+                            "name": "Macintosh Centris 650",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (KB): 8\nIntroduced: February 1993\nDiscontinued: October 1993"
+                        },
+                        {
+                            "name": "Macintosh Centris 660AV Macintosh Quadra 660AV",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (KB): 8\nIntroduced: July 1993\nDiscontinued: September 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "Workgroup Server",
+                    "info": "Workgroup Server machines based on MC68040",
+                    "children": [
+                        {
+                            "name": "Workgroup Server 95",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: March 1993\nDiscontinued: April 1995"
+                        },
+                        {
+                            "name": "Workgroup Server 60",
+                            "info": "Clock speed (MHz): 20–25\nFSB speed (MT/s): 20–25\nL1 cache (KB): 8\nIntroduced: July 1993\nDiscontinued: October 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on MC68040",
+                    "children": [
+                        {
+                            "name": "PowerBook 550c",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: May 1995\nDiscontinued: April 1996"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MC68LC040",
+            "info": "MC68LC040 based computers",
+            "children": [
+                {
+                    "name": "Macintosh",
+                    "info": "Macintosh machines based on MC68LC040",
+                    "children": [
+                        {
+                            "name": "Macintosh Centris 610",
+                            "info": "Clock speed (MHz): 20\nFSB speed (MT/s): 20\nL1 cache (KB): 8\nIntroduced: February 1993\nDiscontinued: October 1993"
+                        },
+                        {
+                            "name": "Macintosh LC 475 Macintosh Quadra 605 Performa 475 Performa 476",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (KB): 8\nIntroduced: October 1993\nDiscontinued: October 1994"
+                        },
+                        {
+                            "name": "Macintosh LC 575 Performa 575 Performa 576 Performa 577 Performa 578",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: February 1994\nDiscontinued: April 1995"
+                        },
+                        {
+                            "name": "Macintosh LC 630 Performa 630 Performa 630CD Performa 631CD Performa 635CD Performa 636 Performa 636CD Performa 637CD Performa 638CD Performa 640CD",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: July 1994\nDiscontinued: February 1996"
+                        },
+                        {
+                            "name": "Macintosh LC 580 Performa 580CD Performa 588CD",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: April 1995\nDiscontinued: April 1996"
+                        }
+                    ]
+                },
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on MC68LC040",
+                    "children": [
+                        {
+                            "name": "PowerBook Duo 280",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: April 1994\nDiscontinued: November 1994"
+                        },
+                        {
+                            "name": "PowerBook Duo 280c",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: April 1994\nDiscontinued: January 1996"
+                        },
+                        {
+                            "name": "PowerBook 520",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (KB): 8\nIntroduced: May 1994\nDiscontinued: June 1995"
+                        },
+                        {
+                            "name": "PowerBook 520c",
+                            "info": "Clock speed (MHz): 25\nFSB speed (MT/s): 25\nL1 cache (KB): 8\nIntroduced: May 1994\nDiscontinued: September 1995"
+                        },
+                        {
+                            "name": "PowerBook 540",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: May 1994\nDiscontinued: October 1994"
+                        },
+                        {
+                            "name": "PowerBook 540c",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: May 1994\nDiscontinued: August 1995"
+                        },
+                        {
+                            "name": "PowerBook 190",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: August 1995\nDiscontinued: June 1996"
+                        },
+                        {
+                            "name": "PowerBook 190cs",
+                            "info": "Clock speed (MHz): 33\nFSB speed (MT/s): 33\nL1 cache (KB): 8\nIntroduced: August 1995\nDiscontinued: October 1996"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 601",
+            "info": "PowerPC 601 based computers",
+            "children": [
+                {
+                    "name": "Power Macintosh",
+                    "info": "Power Macintosh machines based on PowerPC 601",
+                    "children": [
+                        {
+                            "name": "Power Macintosh 6100 Performa 6110CD Performa 6112CD Performa 6115CD Performa 6116CD Performa 6117CD Performa 6118CD",
+                            "info": "Clock speed (MHz): 60–66\nFSB speed (MT/s): 30.0–33.3\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): —\nIntroduced: March 1994\nDiscontinued: October 1995"
+                        },
+                        {
+                            "name": "Power Macintosh 7100",
+                            "info": "Clock speed (MHz): 66–80\nFSB speed (MT/s): 33.3–40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): —\nIntroduced: March 1994\nDiscontinued: January 1996"
+                        },
+                        {
+                            "name": "Power Macintosh 8100",
+                            "info": "Clock speed (MHz): 80–100\nFSB speed (MT/s): 33.3–40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: March 1994\nDiscontinued: July 1995"
+                        },
+                        {
+                            "name": "Power Macintosh 7200",
+                            "info": "Clock speed (MHz): 75–120\nFSB speed (MT/s): 37.5–40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): —\nIntroduced: August 1995\nDiscontinued: February 1997"
+                        },
+                        {
+                            "name": "Power Macintosh 7500",
+                            "info": "Clock speed (MHz): 100\nFSB speed (MT/s): 50.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): —\nIntroduced: August 1995\nDiscontinued: May 1996"
+                        },
+                        {
+                            "name": "Power Macintosh 8200",
+                            "info": "Clock speed (MHz): 100–120\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: April 1996\nDiscontinued: July 1996"
+                        }
+                    ]
+                },
+                {
+                    "name": "Workgroup Server",
+                    "info": "Workgroup Server machines based on PowerPC 601",
+                    "children": [
+                        {
+                            "name": "Workgroup Server 6150",
+                            "info": "Clock speed (MHz): 60–66\nFSB speed (MT/s): 30.0–33.3\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): —\nIntroduced: April 1994\nDiscontinued: April 1996"
+                        },
+                        {
+                            "name": "Workgroup Server 8150",
+                            "info": "Clock speed (MHz): 80–110\nFSB speed (MT/s): 36.7–40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: April 1994\nDiscontinued: April 1996"
+                        },
+                        {
+                            "name": "Workgroup Server 9150",
+                            "info": "Clock speed (MHz): 80–120\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 512–1024\nIntroduced: April 1994\nDiscontinued: May 1996"
+                        },
+                        {
+                            "name": "Workgroup Server 7250",
+                            "info": "Clock speed (MHz): 120\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): —\nIntroduced: February 1996\nDiscontinued: April 1997"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 601v",
+            "info": "PowerPC 601v based computers",
+            "children": [
+                {
+                    "name": "Power Macintosh",
+                    "info": "Power Macintosh machines based on PowerPC 601v",
+                    "children": [
+                        {
+                            "name": "Power Macintosh 8100",
+                            "info": "Clock speed (MHz): 110\nFSB speed (MT/s): 36.7\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: March 1994\nDiscontinued: July 1995"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 603",
+            "info": "PowerPC 603 based computers",
+            "children": [
+                {
+                    "name": "Power Macintosh",
+                    "info": "Power Macintosh machines based on PowerPC 603",
+                    "children": [
+                        {
+                            "name": "Power Macintosh 5200 LC Performa 5200CD Performa 5210CD Performa 5215CD Performa 5220CD",
+                            "info": "Clock speed (MHz): 75\nFSB speed (MT/s): 37.5\nL1 cache (KB) (data/ instr.): 8/8\nL2 cache (KB): 256\nIntroduced: April 1995\nDiscontinued: April 1996"
+                        },
+                        {
+                            "name": "Power Macintosh 6200 Performa 6200CD Performa 6205CD Performa 6210CD Performa 6214CD Performa 6216CD Performa 6218CD Performa 6220CD Performa 6230CD",
+                            "info": "Clock speed (MHz): 75\nFSB speed (MT/s): 37.5\nL1 cache (KB) (data/ instr.): 8/8\nL2 cache (KB): 256\nIntroduced: May 1995\nDiscontinued: July 1997"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 603e",
+            "info": "PowerPC 603e based computers",
+            "children": [
+                {
+                    "name": "Power Macintosh",
+                    "info": "Power Macintosh machines based on PowerPC 603e",
+                    "children": [
+                        {
+                            "name": "Power Macintosh 5300 LC Performa 5300CD (DE) Performa 5320CD",
+                            "info": "Clock speed (MHz): 100–120\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: August 1995\nDiscontinued: April 1996"
+                        },
+                        {
+                            "name": "Power Macintosh 5260 Performa 5260CD Performa 5270CD Performa 5280CD",
+                            "info": "Clock speed (MHz): 100–120\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: April 1996\nDiscontinued: March 1997"
+                        },
+                        {
+                            "name": "Power Macintosh 6300/120 Performa 6320",
+                            "info": "Clock speed (MHz): 120\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: May 1996\nDiscontinued: July 1997"
+                        },
+                        {
+                            "name": "Power Macintosh 4400 Power Macintosh 7220",
+                            "info": "Clock speed (MHz): 160–200\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: November 1996\nDiscontinued: February 1998"
+                        }
+                    ]
+                },
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on PowerPC 603e",
+                    "children": [
+                        {
+                            "name": "PowerBook 5300c/ce/cs",
+                            "info": "Clock speed (MHz): 100–117\nFSB speed (MT/s): 33.3\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): —\nIntroduced: August 1995\nDiscontinued: August 1996"
+                        },
+                        {
+                            "name": "PowerBook Duo 2300c",
+                            "info": "Clock speed (MHz): 100\nFSB speed (MT/s): 33.3\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): —\nIntroduced: August 1995\nDiscontinued: February 1997"
+                        },
+                        {
+                            "name": "PowerBook 1400c/cs",
+                            "info": "Clock speed (MHz): 117–133\nFSB speed (MT/s): 33.3\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): —\nIntroduced: November 1996\nDiscontinued: May 1998"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performa",
+                    "info": "Performa machines based on PowerPC 603e",
+                    "children": [
+                        {
+                            "name": "Performa 6260CD Performa 6290CD Performa 6300CD Performa 6310CD",
+                            "info": "Clock speed (MHz): 100\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: May 1996\nDiscontinued: July 1997"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 603ev",
+            "info": "PowerPC 603ev based computers",
+            "children": [
+                {
+                    "name": "Power Macintosh",
+                    "info": "Power Macintosh machines based on PowerPC 603ev",
+                    "children": [
+                        {
+                            "name": "Power Macintosh 5400 Performa 5400CD Performa 5410CD Performa 5420CD Performa 5430CD Performa 5440CD",
+                            "info": "Clock speed (MHz): 120–200\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: April 1996\nDiscontinued: early 1998"
+                        },
+                        {
+                            "name": "Power Macintosh 6400 Performa 6400 Performa 6410 Performa 6420",
+                            "info": "Clock speed (MHz): 180–200\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: August 1996\nDiscontinued: August 1997"
+                        },
+                        {
+                            "name": "Power Macintosh 5500",
+                            "info": "Clock speed (MHz): 225–275\nFSB speed (MT/s): 50.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: February 1997\nDiscontinued: early 1998"
+                        },
+                        {
+                            "name": "Power Macintosh 6500",
+                            "info": "Clock speed (MHz): 225–300\nFSB speed (MT/s): 50.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: February 1997\nDiscontinued: March 1998"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performa",
+                    "info": "Performa machines based on PowerPC 603ev",
+                    "children": [
+                        {
+                            "name": "Performa 6360",
+                            "info": "Clock speed (MHz): 160\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): —\nIntroduced: October 1996\nDiscontinued: October 1997"
+                        }
+                    ]
+                },
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on PowerPC 603ev",
+                    "children": [
+                        {
+                            "name": "PowerBook 1400c/cs",
+                            "info": "Clock speed (MHz): 166\nFSB speed (MT/s): 33.3\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 128\nIntroduced: November 1996\nDiscontinued: May 1998"
+                        },
+                        {
+                            "name": "PowerBook 3400",
+                            "info": "Clock speed (MHz): 180–240\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: February 1997\nDiscontinued: November 1997"
+                        },
+                        {
+                            "name": "PowerBook 2400",
+                            "info": "Clock speed (MHz): 180–240\nFSB speed (MT/s): 40.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 256\nIntroduced: May 1997\nDiscontinued: May 1998"
+                        }
+                    ]
+                },
+                {
+                    "name": "20th Anniversary Macintosh",
+                    "info": "Clock speed (MHz): 250\nFSB speed (MT/s): 50.0\nL1 cache (KB) (data/ instr.): 16/16\nL2 cache (KB): 128\nIntroduced: May 1997\nDiscontinued: March 1998"
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 604",
+            "info": "PowerPC 604 based computers",
+            "children": [
+                {
+                    "name": "Power Macintosh",
+                    "info": "Power Macintosh machines based on PowerPC 604",
+                    "children": [
+                        {
+                            "name": "Power Macintosh 9500",
+                            "info": "Clock speed (MHz): 120–150\nFSB speed (MT/s): 40–50\nL2 cache (KB): 512\nCPUs: 1\nIntroduced: May 1995\nDiscontinued: August 1996"
+                        },
+                        {
+                            "name": "Power Macintosh 8500",
+                            "info": "Clock speed (MHz): 120–150\nFSB speed (MT/s): 40–50\nL2 cache (KB): 256\nCPUs: 1\nIntroduced: August 1995\nDiscontinued: September 1996"
+                        },
+                        {
+                            "name": "Power Macintosh 7600",
+                            "info": "Clock speed (MHz): 120–132\nFSB speed (MT/s): 40–44\nL2 cache (KB): 256\nCPUs: 1\nIntroduced: April 1996\nDiscontinued: August 1996"
+                        }
+                    ]
+                },
+                {
+                    "name": "Network Server",
+                    "info": "Network Server machines based on PowerPC 604",
+                    "children": [
+                        {
+                            "name": "Network Server 500",
+                            "info": "Clock speed (MHz): 132\nFSB speed (MT/s): 44\nL2 cache (KB): 512\nCPUs: 1\nIntroduced: February 1996\nDiscontinued: April 1997"
+                        }
+                    ]
+                },
+                {
+                    "name": "Workgroup Server",
+                    "info": "Workgroup Server machines based on PowerPC 604",
+                    "children": [
+                        {
+                            "name": "Workgroup Server 8550",
+                            "info": "Clock speed (MHz): 132\nFSB speed (MT/s): 44\nL2 cache (KB): 512\nCPUs: 1\nIntroduced: February 1996\nDiscontinued: September 1996"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 604e",
+            "info": "PowerPC 604e based computers",
+            "children": [
+                {
+                    "name": "Power Macintosh",
+                    "info": "Power Macintosh machines based on PowerPC 604e",
+                    "children": [
+                        {
+                            "name": "Power Macintosh 8500",
+                            "info": "Clock speed (MHz): 180\nFSB speed (MT/s): 45\nL2 cache (KB): 256\nCPUs: 1\nIntroduced: August 1996\nDiscontinued: February 1997"
+                        },
+                        {
+                            "name": "Power Macintosh 9500",
+                            "info": "Clock speed (MHz): 180–200\nFSB speed (MT/s): 45–50\nL2 cache (KB): 512\nCPUs: 1–2\nIntroduced: August 1996\nDiscontinued: February 1997"
+                        },
+                        {
+                            "name": "Power Macintosh 7600",
+                            "info": "Clock speed (MHz): 200\nFSB speed (MT/s): 50\nL2 cache (KB): 256\nCPUs: 1\nIntroduced: August 1996\nDiscontinued: November 1997"
+                        },
+                        {
+                            "name": "Power Macintosh 7300",
+                            "info": "Clock speed (MHz): 166–200\nFSB speed (MT/s): 45–50\nL2 cache (KB): 256\nCPUs: 1\nIntroduced: February 1997\nDiscontinued: November 1997"
+                        },
+                        {
+                            "name": "Power Macintosh 8600",
+                            "info": "Clock speed (MHz): 200\nFSB speed (MT/s): 50\nL2 cache (KB): 512\nCPUs: 1\nIntroduced: February 1997\nDiscontinued: August 1997"
+                        },
+                        {
+                            "name": "Power Macintosh 9600",
+                            "info": "Clock speed (MHz): 200–233\nFSB speed (MT/s): 50\nL2 cache (KB): 512\nCPUs: 1–2\nIntroduced: February 1997\nDiscontinued: August 1997"
+                        }
+                    ]
+                },
+                {
+                    "name": "Network Server",
+                    "info": "Network Server machines based on PowerPC 604e",
+                    "children": [
+                        {
+                            "name": "Network Server 700",
+                            "info": "Clock speed (MHz): 150–200\nFSB speed (MT/s): 50\nL2 cache (KB): 1024\nCPUs: 1\nIntroduced: September 1996\nDiscontinued: April 1997"
+                        }
+                    ]
+                },
+                {
+                    "name": "Workgroup Server",
+                    "info": "Workgroup Server machines based on PowerPC 604e",
+                    "children": [
+                        {
+                            "name": "Workgroup Server 8550",
+                            "info": "Clock speed (MHz): 200\nFSB speed (MT/s): 50\nL2 cache (KB): 512\nCPUs: 1\nIntroduced: September 1996\nDiscontinued: April 1997"
+                        },
+                        {
+                            "name": "Workgroup Server 7350",
+                            "info": "Clock speed (MHz): 180\nFSB speed (MT/s): 45\nL2 cache (KB): 256\nCPUs: 1\nIntroduced: April 1997\nDiscontinued: March 1998"
+                        },
+                        {
+                            "name": "Workgroup Server 9650",
+                            "info": "Clock speed (MHz): 233\nFSB speed (MT/s): 50\nL2 cache (KB): 512\nCPUs: 1\nIntroduced: April 1997\nDiscontinued: August 1997"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 604ev",
+            "info": "PowerPC 604ev based computers",
+            "children": [
+                {
+                    "name": "Power Macintosh",
+                    "info": "Power Macintosh machines based on PowerPC 604ev",
+                    "children": [
+                        {
+                            "name": "Power Macintosh 8600",
+                            "info": "Clock speed (MHz): 250–300\nFSB speed (MT/s): 50\nL2 cache (KB): 1024\nCPUs: 1\nIntroduced: August 1997\nDiscontinued: February 1998"
+                        },
+                        {
+                            "name": "Power Macintosh 9600",
+                            "info": "Clock speed (MHz): 300–350\nFSB speed (MT/s): 50\nL2 cache (KB): 1024\nCPUs: 1\nIntroduced: August 1997\nDiscontinued: March 1998"
+                        }
+                    ]
+                },
+                {
+                    "name": "Workgroup Server",
+                    "info": "Workgroup Server machines based on PowerPC 604ev",
+                    "children": [
+                        {
+                            "name": "Workgroup Server 9650",
+                            "info": "Clock speed (MHz): 350\nFSB speed (MT/s): 50\nL2 cache (KB): 1024\nCPUs: 1\nIntroduced: August 1997\nDiscontinued: March 1998"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 750",
+            "info": "PowerPC 750 based computers",
+            "children": [
+                {
+                    "name": "Power Macintosh",
+                    "info": "Power Macintosh machines based on PowerPC 750",
+                    "children": [
+                        {
+                            "name": "Power Macintosh G3 (Beige)",
+                            "info": "Clock speed (MHz): 233–333\nFSB speed (MT/s): 66\nL2 cache (KB): 512-1024\nIntroduced: November 1997\nDiscontinued: January 1999"
+                        },
+                        {
+                            "name": "Power Macintosh G3 (Blue & White)",
+                            "info": "Clock speed (MHz): 300–450\nFSB speed (MT/s): 100\nL2 cache (KB): 1024\nIntroduced: January 1999\nDiscontinued: September 1999"
+                        }
+                    ]
+                },
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on PowerPC 750",
+                    "children": [
+                        {
+                            "name": "PowerBook G3",
+                            "info": "Clock speed (MHz): 233–500\nFSB speed (MT/s): 50–100\nL2 cache (KB): 512–1024\nIntroduced: November 1997\nDiscontinued: January 2001"
+                        }
+                    ]
+                },
+                {
+                    "name": "Macintosh",
+                    "info": "Macintosh machines based on PowerPC 750",
+                    "children": [
+                        {
+                            "name": "Macintosh Server G3 (Beige)",
+                            "info": "Clock speed (MHz): 233–333\nFSB speed (MT/s): 66\nL2 cache (KB): 1024\nIntroduced: March 1998\nDiscontinued: December 1998"
+                        },
+                        {
+                            "name": "Macintosh Server G3 (Blue & White)",
+                            "info": "Clock speed (MHz): 350–450\nFSB speed (MT/s): 100\nL2 cache (KB): 1024\nIntroduced: January 1999\nDiscontinued: August 1999"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on PowerPC 750",
+                    "children": [
+                        {
+                            "name": "iMac G3 (original) iMac G3 (Summer 2000) iMac G3 (Winter 2001)",
+                            "info": "Clock speed (MHz): 233–500\nFSB speed (MT/s): 66–100\nL2 cache (KB): 512\nIntroduced: August 1998\nDiscontinued: July 2001"
+                        }
+                    ]
+                },
+                {
+                    "name": "iBook",
+                    "info": "iBook machines based on PowerPC 750",
+                    "children": [
+                        {
+                            "name": "iBook (original) iBook (original SE)",
+                            "info": "Clock speed (MHz): 300–366\nFSB speed (MT/s): 66\nL2 cache (KB): 512\nIntroduced: September 1999\nDiscontinued: September 2000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 750CX",
+            "info": "PowerPC 750CX based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on PowerPC 750CX",
+                    "children": [
+                        {
+                            "name": "iMac G3 (Winter 2001) iMac G3 (Summer 2001)",
+                            "info": "Clock speed (MHz): 600\nFSB speed (MT/s): 100\nL2 cache (KB): 256\nIntroduced: September 2000\nDiscontinued: May 2001"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 750CXe",
+            "info": "PowerPC 750CXe based computers",
+            "children": [
+                {
+                    "name": "iBook",
+                    "info": "iBook machines based on PowerPC 750CXe",
+                    "children": [
+                        {
+                            "name": "iBook (FireWire) iBook (FireWire SE) iBook G3 Dual USB (\"Snow\" Mid 2001) iBook G3 Dual USB (\"Snow\" Late 2001)",
+                            "info": "Clock speed (MHz): 366–500\nFSB speed (MT/s): 66–100\nL2 cache (KB): 256–512\nIntroduced: September 2000\nDiscontinued: May 2002"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on PowerPC 750CXe",
+                    "children": [
+                        {
+                            "name": "iMac G3 (Summer 2001)",
+                            "info": "Clock speed (MHz): 500–700\nFSB speed (MT/s): 100\nL2 cache (KB): 256\nIntroduced: July 2001\nDiscontinued: March 2003"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 755",
+            "info": "PowerPC 755 based computers",
+            "children": [
+                {
+                    "name": "iBook",
+                    "info": "iBook machines based on PowerPC 755",
+                    "children": [
+                        {
+                            "name": "iBook G3 Dual USB (\"Snow\" Late 2001) iBook G3 Dual USB (\"Snow\" Early 2002)",
+                            "info": "Clock speed (MHz): 600\nFSB speed (MT/s): 100\nL2 cache (KB): 256\nIntroduced: October 2001\nDiscontinued: May 2002"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 750FX",
+            "info": "PowerPC 750FX based computers",
+            "children": [
+                {
+                    "name": "iBook",
+                    "info": "iBook machines based on PowerPC 750FX",
+                    "children": [
+                        {
+                            "name": "iBook G3 Dual USB (\"Snow\" Mid 2002) iBook G3 Dual USB (\"Snow\" Late 2002) iBook G3 Dual USB (\"Snow\" Early 2003)",
+                            "info": "Clock speed (MHz): 600–900\nFSB speed (MT/s): 100\nL2 cache (KB): 512\nIntroduced: May 2002\nDiscontinued: October 2003"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 7400",
+            "info": "PowerPC 7400 based computers",
+            "children": [
+                {
+                    "name": "Power Mac",
+                    "info": "Power Mac machines based on PowerPC 7400",
+                    "children": [
+                        {
+                            "name": "Power Mac G4 (Graphite)",
+                            "info": "Clock speed (MHz): 350–500\nFSB speed (MT/s): 100\nL2 cache (KB): 512–1024\nL3 cache (MB): —\nCPUs: 1–2\nIntroduced: September 1999\nDiscontinued: January 2001"
+                        },
+                        {
+                            "name": "Power Mac G4 Cube",
+                            "info": "Clock speed (MHz): 450–500\nFSB speed (MT/s): 100\nL2 cache (KB): 512–1024\nL3 cache (MB): —\nCPUs: 1\nIntroduced: August 2000\nDiscontinued: April 2001"
+                        }
+                    ]
+                },
+                {
+                    "name": "Macintosh",
+                    "info": "Macintosh machines based on PowerPC 7400",
+                    "children": [
+                        {
+                            "name": "Macintosh Server G4 (Graphite)",
+                            "info": "Clock speed (MHz): 350–500\nFSB speed (MT/s): 100\nL2 cache (KB): 512–1024\nL3 cache (MB): —\nCPUs: 1–2\nIntroduced: January 2000\nDiscontinued: January 2001"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 7410",
+            "info": "PowerPC 7410 based computers",
+            "children": [
+                {
+                    "name": "Power Mac",
+                    "info": "Power Mac machines based on PowerPC 7410",
+                    "children": [
+                        {
+                            "name": "Power Mac G4 (Digital Audio)",
+                            "info": "Clock speed (MHz): 466–533\nFSB speed (MT/s): 133\nL2 cache (KB): 1024\nL3 cache (MB): —\nCPUs: 1–2\nIntroduced: January 2001\nDiscontinued: July 2001"
+                        },
+                        {
+                            "name": "Power Mac G4 Cube",
+                            "info": "Clock speed (MHz): 450–500\nFSB speed (MT/s): 100\nL2 cache (KB): 1024\nL3 cache (MB): —\nCPUs: 1\nIntroduced: April 2001\nDiscontinued: July 2001"
+                        }
+                    ]
+                },
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on PowerPC 7410",
+                    "children": [
+                        {
+                            "name": "PowerBook G4 (Mercury)",
+                            "info": "Clock speed (MHz): 400–500\nFSB speed (MT/s): 100\nL2 cache (KB): 1024\nL3 cache (MB): —\nCPUs: 1\nIntroduced: January 2001\nDiscontinued: October 2001"
+                        }
+                    ]
+                },
+                {
+                    "name": "Macintosh",
+                    "info": "Macintosh machines based on PowerPC 7410",
+                    "children": [
+                        {
+                            "name": "Macintosh Server G4 (Digital Audio)",
+                            "info": "Clock speed (MHz): 466–533\nFSB speed (MT/s): 133\nL2 cache (KB): 1024\nL3 cache (MB): —\nCPUs: 1–2\nIntroduced: January 2001\nDiscontinued: July 2001"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 7441",
+            "info": "PowerPC 7441 based computers",
+            "children": [
+                {
+                    "name": "eMac",
+                    "info": "eMac machines based on PowerPC 7441",
+                    "children": [
+                        {
+                            "name": "eMac (2002)",
+                            "info": "Clock speed (MHz): 700–800\nFSB speed (MT/s): 100\nL2 cache (KB): 256\nL3 cache (MB): —\nCPUs: 1\nIntroduced: April 2002\nDiscontinued: May 2003"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 7445",
+            "info": "PowerPC 7445 based computers",
+            "children": [
+                {
+                    "name": "eMac",
+                    "info": "eMac machines based on PowerPC 7445",
+                    "children": [
+                        {
+                            "name": "eMac (2003)",
+                            "info": "Clock speed (MHz): 800–1000\nFSB speed (MT/s): 133\nL2 cache (KB): 256\nL3 cache (MB): —\nCPUs: 1\nIntroduced: May 2003\nDiscontinued: April 2004"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 7450",
+            "info": "PowerPC 7450 based computers",
+            "children": [
+                {
+                    "name": "Power Mac",
+                    "info": "Power Mac machines based on PowerPC 7450",
+                    "children": [
+                        {
+                            "name": "Power Mac G4 (Digital Audio) Power Mac G4 (Quicksilver)",
+                            "info": "Clock speed (MHz): 667–867\nFSB speed (MT/s): 133\nL2 cache (KB): 256–1024\nL3 cache (MB): 0–2\nCPUs: 1–2\nIntroduced: January 2001\nDiscontinued: January 2002"
+                        }
+                    ]
+                },
+                {
+                    "name": "Macintosh",
+                    "info": "Macintosh machines based on PowerPC 7450",
+                    "children": [
+                        {
+                            "name": "Macintosh Server G4 (Quicksilver)",
+                            "info": "Clock speed (MHz): 733–1000\nFSB speed (MT/s): 133\nL2 cache (KB): 256\nL3 cache (MB): 0–2\nCPUs: 1–2\nIntroduced: September 2001\nDiscontinued: August 2002"
+                        }
+                    ]
+                },
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on PowerPC 7450",
+                    "children": [
+                        {
+                            "name": "PowerBook G4 (Onyx)",
+                            "info": "Clock speed (MHz): 550–667\nFSB speed (MT/s): 100–133\nL2 cache (KB): 256\nL3 cache (MB): —\nCPUs: 1\nIntroduced: October 2001\nDiscontinued: July 2002"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on PowerPC 7450",
+                    "children": [
+                        {
+                            "name": "iMac G4 (2002)",
+                            "info": "Clock speed (MHz): 700–800\nFSB speed (MT/s): 100\nL2 cache (KB): 256\nL3 cache (MB): —\nCPUs: 1\nIntroduced: January 2002\nDiscontinued: January 2003"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 7451",
+            "info": "PowerPC 7451 based computers",
+            "children": [
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on PowerPC 7451",
+                    "children": [
+                        {
+                            "name": "PowerBook G4 (Ivory)",
+                            "info": "Clock speed (MHz): 667–800\nFSB speed (MT/s): 133–167\nL2 cache (KB): 256\nL3 cache (MB): —\nCPUs: 1\nIntroduced: January 2002\nDiscontinued: June 2004"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 7455",
+            "info": "PowerPC 7455 based computers",
+            "children": [
+                {
+                    "name": "Power Mac",
+                    "info": "Power Mac machines based on PowerPC 7455",
+                    "children": [
+                        {
+                            "name": "Power Mac G4 (Quicksilver)",
+                            "info": "Clock speed (MHz): 800–1420\nFSB speed (MT/s): 133–167\nL2 cache (KB): 256\nL3 cache (MB): 1–4\nCPUs: 1–2\nIntroduced: January 2002\nDiscontinued: June 2004"
+                        }
+                    ]
+                },
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on PowerPC 7455",
+                    "children": [
+                        {
+                            "name": "PowerBook G4 (Antimony)",
+                            "info": "Clock speed (MHz): 667–1000\nFSB speed (MT/s): 133–167\nL2 cache (KB): 256\nL3 cache (MB): 0–1\nCPUs: 1\nIntroduced: April 2002\nDiscontinued: September 2003"
+                        }
+                    ]
+                },
+                {
+                    "name": "Xserve",
+                    "info": "Xserve machines based on PowerPC 7455",
+                    "children": [
+                        {
+                            "name": "Xserve G4",
+                            "info": "Clock speed (MHz): 1000–1333\nFSB speed (MT/s): 133\nL2 cache (KB): 256\nL3 cache (MB): 2\nCPUs: 1–2\nIntroduced: May 2002\nDiscontinued: January 2004"
+                        }
+                    ]
+                },
+                {
+                    "name": "Macintosh",
+                    "info": "Macintosh machines based on PowerPC 7455",
+                    "children": [
+                        {
+                            "name": "Macintosh Server G4 (Quicksilver)",
+                            "info": "Clock speed (MHz): 1000–1250\nFSB speed (MT/s): 133–167\nL2 cache (KB): 256\nL3 cache (MB): 1–2\nCPUs: 1–2\nIntroduced: August 2002\nDiscontinued: January 2003"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on PowerPC 7455",
+                    "children": [
+                        {
+                            "name": "iMac G4 (2003)",
+                            "info": "Clock speed (MHz): 800–1250\nFSB speed (MT/s): 100–167\nL2 cache (KB): 256\nL3 cache (MB): —\nCPUs: 1\nIntroduced: February 2003\nDiscontinued: July 2004"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 7457",
+            "info": "PowerPC 7457 based computers",
+            "children": [
+                {
+                    "name": "iBook",
+                    "info": "iBook machines based on PowerPC 7457",
+                    "children": [
+                        {
+                            "name": "iBook G4 (Original)",
+                            "info": "Clock speed (MHz): 800–1000\nFSB speed (MT/s): 133\nL2 cache (KB): 256\nL3 cache (MB): —\nCPUs: 1\nIntroduced: October 2003\nDiscontinued: April 2004"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 7447",
+            "info": "PowerPC 7447 based computers",
+            "children": [
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on PowerPC 7447",
+                    "children": [
+                        {
+                            "name": "PowerBook G4 (Aluminum)",
+                            "info": "Clock speed (MHz): 1000–1333\nFSB speed (MT/s): 133–167\nL2 cache (KB): 512\nL3 cache (MB): —\nCPUs: 1\nIntroduced: September 2003\nDiscontinued: April 2004"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 7447a",
+            "info": "PowerPC 7447a based computers",
+            "children": [
+                {
+                    "name": "PowerBook",
+                    "info": "PowerBook machines based on PowerPC 7447a",
+                    "children": [
+                        {
+                            "name": "PowerBook G4 (Aluminum)",
+                            "info": "Clock speed (MHz): 1333–1667\nFSB speed (MT/s): 167\nL2 cache (KB): 512\nL3 cache (MB): —\nCPUs: 1\nIntroduced: April 2004\nDiscontinued: April 2006"
+                        }
+                    ]
+                },
+                {
+                    "name": "iBook",
+                    "info": "iBook machines based on PowerPC 7447a",
+                    "children": [
+                        {
+                            "name": "iBook G4 (2004, 2005)",
+                            "info": "Clock speed (MHz): 1000–1420\nFSB speed (MT/s): 133–142\nL2 cache (KB): 512\nL3 cache (MB): —\nCPUs: 1\nIntroduced: April 2004\nDiscontinued: May 2006"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on PowerPC 7447a",
+                    "children": [
+                        {
+                            "name": "Mac mini G4",
+                            "info": "Clock speed (MHz): 1250–1500\nFSB speed (MT/s): 167\nL2 cache (KB): 512\nL3 cache (MB): —\nCPUs: 1\nIntroduced: January 2005\nDiscontinued: February 2006"
+                        }
+                    ]
+                },
+                {
+                    "name": "eMac",
+                    "info": "eMac machines based on PowerPC 7447a",
+                    "children": [
+                        {
+                            "name": "eMac (2004)",
+                            "info": "Clock speed (MHz): 1250\nFSB speed (MT/s): 167\nL2 cache (KB): 512\nL3 cache (MB): —\nCPUs: 1\nIntroduced: April 2004\nDiscontinued: May 2005"
+                        },
+                        {
+                            "name": "eMac (2005)",
+                            "info": "Clock speed (MHz): 1420\nFSB speed (MT/s): 167\nL2 cache (KB): 512\nL3 cache (MB): —\nCPUs: 1\nIntroduced: May 2005\nDiscontinued: July 2006"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 970",
+            "info": "PowerPC 970 based computers",
+            "children": [
+                {
+                    "name": "Power Mac",
+                    "info": "Power Mac machines based on PowerPC 970",
+                    "children": [
+                        {
+                            "name": "Power Mac G5 (original)",
+                            "info": "Clock speed (GHz): 1.6–2.0\nFSB speed (MT/s): 800–1000\nL2 cache (KB): 512\nCPUs: 1–2\nCores per CPU: 1\nIntroduced: June 2003\nDiscontinued: June 2004"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 970FX",
+            "info": "PowerPC 970FX based computers",
+            "children": [
+                {
+                    "name": "Xserve",
+                    "info": "Xserve machines based on PowerPC 970FX",
+                    "children": [
+                        {
+                            "name": "Xserve G5",
+                            "info": "Clock speed (GHz): 2.0–2.3\nFSB speed (MT/s): 1000–1150\nL2 cache (KB): 512\nCPUs: 1–2\nCores per CPU: 1\nIntroduced: January 2004\nDiscontinued: August 2005"
+                        }
+                    ]
+                },
+                {
+                    "name": "Power Mac",
+                    "info": "Power Mac machines based on PowerPC 970FX",
+                    "children": [
+                        {
+                            "name": "Power Mac G5 (Mid 2004, Early 2005)",
+                            "info": "Clock speed (GHz): 1.8–2.7\nFSB speed (MT/s): 900–1350\nL2 cache (KB): 512\nCPUs: 1–2\nCores per CPU: 1\nIntroduced: June 2004\nDiscontinued: November 2005"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on PowerPC 970FX",
+                    "children": [
+                        {
+                            "name": "iMac G5",
+                            "info": "Clock speed (GHz): 1.6–2.1\nFSB speed (MT/s): 533–700\nL2 cache (KB): 512\nCPUs: 1\nCores per CPU: 1\nIntroduced: August 2004\nDiscontinued: January 2006"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PowerPC 970MP",
+            "info": "PowerPC 970MP based computers",
+            "children": [
+                {
+                    "name": "Power Mac",
+                    "info": "Power Mac machines based on PowerPC 970MP",
+                    "children": [
+                        {
+                            "name": "Power Mac G5 (Late 2005)",
+                            "info": "Clock speed (GHz): 2.0–2.5\nFSB speed (MT/s): 1000–1250\nL2 cache (KB): 2×1024\nCPUs: 1–2\nCores per CPU: 2\nIntroduced: November 2005\nDiscontinued: August 2006"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core Duo (\"Yonah\")",
+            "info": "Core Duo (\"Yonah\") based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core Duo (\"Yonah\")",
+                    "children": [
+                        {
+                            "name": "iMac (Early 2006) iMac (Mid 2006)",
+                            "info": "Clock speed (GHz): 1.83–2.00\nFSB speed (MT/s): 667\nL2 cache (MB): 2\nCPUs: 1\nCores per CPU: 2\nIntroduced: January 2006\nDiscontinued: September 2006"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core Duo (\"Yonah\")",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (Early 2006)",
+                            "info": "Clock speed (GHz): 1.83–2.16\nFSB speed (MT/s): 667\nL2 cache (MB): 2\nCPUs: 1\nCores per CPU: 2\nIntroduced: February 2006\nDiscontinued: October 2006"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core Duo (\"Yonah\")",
+                    "children": [
+                        {
+                            "name": "Mac mini (Early 2006) Mac mini (Late 2006)",
+                            "info": "Clock speed (GHz): 1.66–1.83\nFSB speed (MT/s): 667\nL2 cache (MB): 2\nCPUs: 1\nCores per CPU: 2\nIntroduced: February 2006\nDiscontinued: August 2007"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook",
+                    "info": "MacBook machines based on Core Duo (\"Yonah\")",
+                    "children": [
+                        {
+                            "name": "MacBook (Mid 2006)",
+                            "info": "Clock speed (GHz): 1.83–2.00\nFSB speed (MT/s): 667\nL2 cache (MB): 2\nCPUs: 1\nCores per CPU: 2\nIntroduced: May 2006\nDiscontinued: November 2006"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core Solo (\"Yonah\")",
+            "info": "Core Solo (\"Yonah\") based computers",
+            "children": [
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core Solo (\"Yonah\")",
+                    "children": [
+                        {
+                            "name": "Mac mini (Early 2006)",
+                            "info": "Clock speed (GHz): 1.50\nFSB speed (MT/s): 667\nL2 cache (MB): 2\nCPUs: 1\nCores per CPU: 1\nIntroduced: February 2006\nDiscontinued: September 2006"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pentium M ULV (\"Crofton\")",
+            "info": "Pentium M ULV (\"Crofton\") based computers",
+            "children": [
+                {
+                    "name": "Apple TV (1st generation)",
+                    "info": "Clock speed (GHz): 1.00\nFSB speed (MT/s): 350\nL2 cache (MB): 2\nCPUs: 1\nCores per CPU: 1\nIntroduced: January 2007\nDiscontinued: September 2010"
+                }
+            ]
+        },
+        {
+            "name": "Xeon 5100 (\"Woodcrest\")",
+            "info": "Xeon 5100 (\"Woodcrest\") based computers",
+            "children": [
+                {
+                    "name": "Mac Pro",
+                    "info": "Mac Pro machines based on Xeon 5100 (\"Woodcrest\")",
+                    "children": [
+                        {
+                            "name": "Mac Pro (Mid 2006)",
+                            "info": "Clock speed (GHz): 2.00–3.00\nFSB speed (MT/s): 1333\nL2 cache (MB): 4\nCPUs: 2\nCores per CPU: 2\nIntroduced: August 2006\nDiscontinued: January 2008"
+                        }
+                    ]
+                },
+                {
+                    "name": "Xserve",
+                    "info": "Xserve machines based on Xeon 5100 (\"Woodcrest\")",
+                    "children": [
+                        {
+                            "name": "Xserve (Late 2006)",
+                            "info": "Clock speed (GHz): 2.00–3.00\nFSB speed (MT/s): 1333\nL2 cache (MB): 4\nCPUs: 2\nCores per CPU: 2\nIntroduced: October 2006\nDiscontinued: January 2008"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core 2 Duo (\"Merom\")",
+            "info": "Core 2 Duo (\"Merom\") based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core 2 Duo (\"Merom\")",
+                    "children": [
+                        {
+                            "name": "iMac (Late 2006) iMac (Mid 2007)",
+                            "info": "Clock speed (GHz): 1.83–2.40\nFSB speed (MT/s): 667–800\nL2 cache (MB): 2–4\nCPUs: 1\nCores per CPU: 2\nIntroduced: September 2006\nDiscontinued: April 2008"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core 2 Duo (\"Merom\")",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (Late 2006) MacBook Pro (Mid 2007) MacBook Pro (Late 2007)",
+                            "info": "Clock speed (GHz): 2.16–2.60\nFSB speed (MT/s): 667–800\nL2 cache (MB): 4\nCPUs: 1\nCores per CPU: 2\nIntroduced: October 2006\nDiscontinued: February 2008"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook",
+                    "info": "MacBook machines based on Core 2 Duo (\"Merom\")",
+                    "children": [
+                        {
+                            "name": "MacBook (Late 2006) MacBook (Mid 2007) MacBook (Late 2007)",
+                            "info": "Clock speed (GHz): 1.83–2.20\nFSB speed (MT/s): 667–800\nL2 cache (MB): 2–4\nCPUs: 1\nCores per CPU: 2\nIntroduced: November 2006\nDiscontinued: February 2008"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core 2 Duo (\"Merom\")",
+                    "children": [
+                        {
+                            "name": "Mac mini (Mid 2007)",
+                            "info": "Clock speed (GHz): 1.83–2.00\nFSB speed (MT/s): 667\nL2 cache (MB): 2–4\nCPUs: 1\nCores per CPU: 2\nIntroduced: August 2007\nDiscontinued: March 2009"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Core 2 Duo (\"Merom\")",
+                    "children": [
+                        {
+                            "name": "MacBook Air (Unibody)",
+                            "info": "Clock speed (GHz): 1.60–1.80\nFSB speed (MT/s): 800\nL2 cache (MB): 4\nCPUs: 1\nCores per CPU: 2\nIntroduced: January 2008\nDiscontinued: October 2008"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Xeon 5300 (\"Clovertown\")",
+            "info": "Xeon 5300 (\"Clovertown\") based computers",
+            "children": [
+                {
+                    "name": "Mac Pro",
+                    "info": "Mac Pro machines based on Xeon 5300 (\"Clovertown\")",
+                    "children": [
+                        {
+                            "name": "Mac Pro (Mid 2006)",
+                            "info": "Clock speed (GHz): 3.00\nFSB speed (MT/s): 1333\nL2 cache (MB): 2×4\nCPUs: 2\nCores per CPU: 4\nIntroduced: April 2007\nDiscontinued: January 2008"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core 2 Extreme (\"Merom XE\")",
+            "info": "Core 2 Extreme (\"Merom XE\") based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core 2 Extreme (\"Merom XE\")",
+                    "children": [
+                        {
+                            "name": "iMac (Mid 2007)",
+                            "info": "Clock speed (GHz): 2.80\nFSB speed (MT/s): 800\nL2 cache (MB): 4\nCPUs: 1\nCores per CPU: 2\nIntroduced: August 2007\nDiscontinued: April 2008"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Xeon 5400 (\"Harpertown\")",
+            "info": "Xeon 5400 (\"Harpertown\") based computers",
+            "children": [
+                {
+                    "name": "Mac Pro",
+                    "info": "Mac Pro machines based on Xeon 5400 (\"Harpertown\")",
+                    "children": [
+                        {
+                            "name": "Mac Pro (Early 2008)",
+                            "info": "Clock speed (GHz): 2.80–3.20\nFSB speed (MT/s): 1600\nL2 cache (MB): 2×6\nCPUs: 1–2\nCores per CPU: 4\nIntroduced: January 2008\nDiscontinued: March 2009"
+                        }
+                    ]
+                },
+                {
+                    "name": "Xserve",
+                    "info": "Xserve machines based on Xeon 5400 (\"Harpertown\")",
+                    "children": [
+                        {
+                            "name": "Xserve (Early 2008)",
+                            "info": "Clock speed (GHz): 2.80–3.00\nFSB speed (MT/s): 1600\nL2 cache (MB): 2×6\nCPUs: 1–2\nCores per CPU: 4\nIntroduced: January 2008\nDiscontinued: April 2009"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core 2 Duo (\"Penryn\")",
+            "info": "Core 2 Duo (\"Penryn\") based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core 2 Duo (\"Penryn\")",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (Early 2008) MacBook Pro (Late 2008) MacBook Pro (Early 2009) MacBook Pro (Mid 2009) MacBook Pro (Mid 2010)",
+                            "info": "Clock speed (GHz): 2.26–3.06\nFSB speed (MT/s): 1066\nL2 cache (MB): 3–6\nCPUs: 1\nCores per CPU: 2\nIntroduced: February 2008\nDiscontinued: March 2011"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook",
+                    "info": "MacBook machines based on Core 2 Duo (\"Penryn\")",
+                    "children": [
+                        {
+                            "name": "MacBook (Early 2008) MacBook (Late 2008) MacBook (Early 2009) MacBook (Mid 2009) MacBook (Late 2009) MacBook (Mid 2010)",
+                            "info": "Clock speed (GHz): 2.00–2.40\nFSB speed (MT/s): 1066\nL2 cache (MB): 3\nCPUs: 1\nCores per CPU: 2\nIntroduced: February 2008\nDiscontinued: July 2011"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core 2 Duo (\"Penryn\")",
+                    "children": [
+                        {
+                            "name": "iMac (Early 2008) iMac (Early 2009) iMac (Mid 2009)",
+                            "info": "Clock speed (GHz): 2.40–3.06\nFSB speed (MT/s): 1066\nL2 cache (MB): 6\nCPUs: 1\nCores per CPU: 2\nIntroduced: April 2008\nDiscontinued: October 2009"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Core 2 Duo (\"Penryn\")",
+                    "children": [
+                        {
+                            "name": "MacBook Air (Unibody) MacBook Air (Late 2010)",
+                            "info": "Clock speed (GHz): 1.60–2.13\nFSB speed (MT/s): 1066\nL2 cache (MB): 6\nCPUs: 1\nCores per CPU: 2\nIntroduced: October 2008\nDiscontinued: July 2011"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core 2 Duo (\"Penryn\")",
+                    "children": [
+                        {
+                            "name": "Mac mini (Early 2009)",
+                            "info": "Clock speed (GHz): 2.00–2.66\nFSB speed (MT/s): 1066\nL2 cache (MB): 3\nCPUs: 1\nCores per CPU: 2\nIntroduced: March 2009\nDiscontinued: July 2011"
+                        },
+                        {
+                            "name": "Mac mini Server (Late 2009)",
+                            "info": "Clock speed (GHz): 2.53–2.66\nFSB speed (MT/s): 1066\nL2 cache (MB): 3\nCPUs: 1\nCores per CPU: 2\nIntroduced: October 2009\nDiscontinued: July 2011"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core 2 Duo (\"Wolfdale\")",
+            "info": "Core 2 Duo (\"Wolfdale\") based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core 2 Duo (\"Wolfdale\")",
+                    "children": [
+                        {
+                            "name": "iMac (Late 2009)",
+                            "info": "Clock speed (GHz): 3.06–3.33\nFSB speed (MT/s): 1066–1333\nL2 cache (MB): 3–6\nCPUs: 1\nCores per CPU: 2\nIntroduced: October 2009\nDiscontinued: July 2010"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core 2 Duo CULV (\"Penryn\")",
+            "info": "Core 2 Duo CULV (\"Penryn\") based computers",
+            "children": [
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Core 2 Duo CULV (\"Penryn\")",
+                    "children": [
+                        {
+                            "name": "MacBook Air (Late 2010)",
+                            "info": "Clock speed (GHz): 1.40–1.60\nFSB speed (MT/s): 800\nL2 cache (MB): 3\nCPUs: 1\nCores per CPU: 2\nIntroduced: October 2010\nDiscontinued: July 2011"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Xeon 3500 (\"Bloomfield\")",
+            "info": "Xeon 3500 (\"Bloomfield\") based computers",
+            "children": [
+                {
+                    "name": "Mac Pro",
+                    "info": "Mac Pro machines based on Xeon 3500 (\"Bloomfield\")",
+                    "children": [
+                        {
+                            "name": "Mac Pro (Early 2009)",
+                            "info": "Clock speed (GHz): 2.66–3.33\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nCPUs: 1\nCores per CPU: 4\nQPI: Yes\nHT: Yes\nITB: Yes\nIntroduced: March 2009\nDiscontinued: July 2010"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Xeon 5500 (\"Gainestown\")",
+            "info": "Xeon 5500 (\"Gainestown\") based computers",
+            "children": [
+                {
+                    "name": "Mac Pro",
+                    "info": "Mac Pro machines based on Xeon 5500 (\"Gainestown\")",
+                    "children": [
+                        {
+                            "name": "Mac Pro (Early 2009)",
+                            "info": "Clock speed (GHz): 2.26–2.93\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nCPUs: 2\nCores per CPU: 4\nQPI: Yes\nHT: Yes\nITB: Yes\nIntroduced: March 2009\nDiscontinued: August 2010"
+                        }
+                    ]
+                },
+                {
+                    "name": "Xserve",
+                    "info": "Xserve machines based on Xeon 5500 (\"Gainestown\")",
+                    "children": [
+                        {
+                            "name": "Xserve (Early 2009)",
+                            "info": "Clock speed (GHz): 2.26–3.33\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nCPUs: 1–2\nCores per CPU: 4\nQPI: Yes\nHT: Yes\nITB: Yes\nIntroduced: April 2009\nDiscontinued: January 2011"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i5 (\"Lynnfield\")",
+            "info": "Core i5 (\"Lynnfield\") based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i5 (\"Lynnfield\")",
+                    "children": [
+                        {
+                            "name": "iMac (Late 2009)",
+                            "info": "Clock speed (GHz): 2.66–2.80\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nCPUs: 1\nCores per CPU: 4\nQPI: No\nHT: No\nITB: Yes\nIntroduced: October 2009\nDiscontinued: May 2011"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i7 (\"Lynnfield\")",
+            "info": "Core i7 (\"Lynnfield\") based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i7 (\"Lynnfield\")",
+                    "children": [
+                        {
+                            "name": "iMac (Late 2009)",
+                            "info": "Clock speed (GHz): 2.80–2.93\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nCPUs: 1\nCores per CPU: 4\nQPI: No\nHT: Yes\nITB: Yes\nIntroduced: October 2009\nDiscontinued: May 2011"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i5 (\"Arrandale\")",
+            "info": "Core i5 (\"Arrandale\") based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core i5 (\"Arrandale\")",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (Mid 2010)",
+                            "info": "Clock speed (GHz): 2.40–2.53\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCPUs: 1\nCores per CPU: 2\nQPI: No\nHT: Yes\nITB: Yes\nIntroduced: April 2010\nDiscontinued: March 2011"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i7 (\"Arrandale\")",
+            "info": "Core i7 (\"Arrandale\") based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core i7 (\"Arrandale\")",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (Mid 2010)",
+                            "info": "Clock speed (GHz): 2.66\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCPUs: 1\nCores per CPU: 2\nQPI: No\nHT: Yes\nITB: Yes\nIntroduced: April 2010\nDiscontinued: March 2011"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i3 (\"Clarkdale\")",
+            "info": "Core i3 (\"Clarkdale\") based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i3 (\"Clarkdale\")",
+                    "children": [
+                        {
+                            "name": "iMac (Mid 2010)",
+                            "info": "Clock speed (GHz): 3.06–3.20\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCPUs: 1\nCores per CPU: 2\nQPI: No\nHT: Yes\nITB: No\nIntroduced: July 2010\nDiscontinued: May 2011"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i5 (\"Clarkdale\")",
+            "info": "Core i5 (\"Clarkdale\") based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i5 (\"Clarkdale\")",
+                    "children": [
+                        {
+                            "name": "iMac (Mid 2010)",
+                            "info": "Clock speed (GHz): 3.60\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCPUs: 1\nCores per CPU: 2\nQPI: No\nHT: Yes\nITB: Yes\nIntroduced: July 2010\nDiscontinued: May 2011"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Xeon 3600 (\"Gulftown\")",
+            "info": "Xeon 3600 (\"Gulftown\") based computers",
+            "children": [
+                {
+                    "name": "Mac Pro",
+                    "info": "Mac Pro machines based on Xeon 3600 (\"Gulftown\")",
+                    "children": [
+                        {
+                            "name": "Mac Pro (Mid 2010) Mac Pro (Mid 2012)",
+                            "info": "Clock speed (GHz): 3.33\nL2 cache (KB): 6×256\nL3 cache (MB): 12\nCPUs: 1\nCores per CPU: 6\nQPI: Yes\nHT: Yes\nITB: Yes\nIntroduced: August 2010\nDiscontinued: October 2013"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Xeon 5600 (\"Gulftown\")",
+            "info": "Xeon 5600 (\"Gulftown\") based computers",
+            "children": [
+                {
+                    "name": "Mac Pro",
+                    "info": "Mac Pro machines based on Xeon 5600 (\"Gulftown\")",
+                    "children": [
+                        {
+                            "name": "Mac Pro (Mid 2010)",
+                            "info": "Clock speed (GHz): 2.40–3.06\nL2 cache (KB): 4–6×256\nL3 cache (MB): 12\nCPUs: 2\nCores per CPU: 4–6\nQPI: Yes\nHT: Yes\nITB: Yes\nIntroduced: August 2010\nDiscontinued: October 2013"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i5 (2-core)",
+            "info": "Core i5 (2-core) based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core i5 (2-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (Early 2011) MacBook Pro (Late 2011)",
+                            "info": "Clock speed (GHz): 2.3\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: March 2011\nDiscontinued: June 2012"
+                        },
+                        {
+                            "name": "MacBook Pro (Mid 2012)",
+                            "info": "Clock speed (GHz): 2.5\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2012\nDiscontinued: October 2016"
+                        },
+                        {
+                            "name": "MacBook Pro (Late 2013) MacBook Pro (Mid 2014) MacBook Pro (Mid 2015)",
+                            "info": "Clock speed (GHz): 2.4–2.8\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nL4 cache (MB): —\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: October 2013\nDiscontinued: March 2015"
+                        },
+                        {
+                            "name": "MacBook Pro (Early 2015)",
+                            "info": "Clock speed (GHz): 2.7–2.9\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: March 2015\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "MacBook Pro (2016)",
+                            "info": "Clock speed (GHz): 2.0\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: October 2016\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "MacBook Pro (2016)",
+                            "info": "Clock speed (GHz): 2.9–3.1\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: November 2016\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "MacBook Pro (2017)",
+                            "info": "Clock speed (GHz): 2.3\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nTDP (W): 15\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2017\nDiscontinued: July 2019"
+                        },
+                        {
+                            "name": "MacBook Pro (2017)",
+                            "info": "Clock speed (GHz): 3.1–3.3\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nTDP (W): 28\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2017\nDiscontinued: July 2018"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core i5 (2-core)",
+                    "children": [
+                        {
+                            "name": "Mac mini (Mid 2011)",
+                            "info": "Clock speed (GHz): 2.3–2.5\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: July 2011\nDiscontinued: October 2012"
+                        },
+                        {
+                            "name": "Mac mini (Late 2012)",
+                            "info": "Clock speed (GHz): 2.5\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: October 2012\nDiscontinued: October 2014"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook",
+                    "info": "MacBook machines based on Core i5 (2-core)",
+                    "children": [
+                        {
+                            "name": "MacBook (2017)",
+                            "info": "Clock speed (GHz): 1.3\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nTDP (W): 4.5\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2017\nDiscontinued: July 2019"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Core i5 (2-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Air (2018) MacBook Air (2019)",
+                            "info": "Clock speed (GHz): 1.6\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nTDP (W): 7\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: October 2018\nDiscontinued: July 2019"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i5 (2-core)",
+                    "children": [
+                        {
+                            "name": "iMac (2017)",
+                            "info": "Clock speed (GHz): 2.3\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nTDP (W): 15\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2017\nDiscontinued: October 2021"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i7 (2-core)",
+            "info": "Core i7 (2-core) based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core i7 (2-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (Early 2011) MacBook Pro (Late 2011)",
+                            "info": "Clock speed (GHz): 2.7–2.8\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: March 2011\nDiscontinued: June 2012"
+                        },
+                        {
+                            "name": "MacBook Pro (Mid 2012)",
+                            "info": "Clock speed (GHz): 2.9–3.0\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2012\nDiscontinued: October 2016"
+                        },
+                        {
+                            "name": "MacBook Pro (Late 2013) MacBook Pro (Mid 2014) MacBook Pro (Mid 2015)",
+                            "info": "Clock speed (GHz): 2.8–3.0\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nL4 cache (MB): —\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: October 2013\nDiscontinued: March 2015"
+                        },
+                        {
+                            "name": "MacBook Pro (Early 2015)",
+                            "info": "Clock speed (GHz): 3.1\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: March 2015\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "MacBook Pro (2016)",
+                            "info": "Clock speed (GHz): 2.4\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: October 2016\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "MacBook Pro (2016)",
+                            "info": "Clock speed (GHz): 3.3\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: November 2016\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "MacBook Pro (2017)",
+                            "info": "Clock speed (GHz): 2.5\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nTDP (W): 15\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2017\nDiscontinued: July 2019"
+                        },
+                        {
+                            "name": "MacBook Pro (2017)",
+                            "info": "Clock speed (GHz): 3.5\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nTDP (W): 28\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2017\nDiscontinued: July 2018"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core i7 (2-core)",
+                    "children": [
+                        {
+                            "name": "Mac mini (Mid 2011)",
+                            "info": "Clock speed (GHz): 2.7\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: July 2011\nDiscontinued: October 2012"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook",
+                    "info": "MacBook machines based on Core i7 (2-core)",
+                    "children": [
+                        {
+                            "name": "MacBook (2017)",
+                            "info": "Clock speed (GHz): 1.4\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nTDP (W): 4.5\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2017\nDiscontinued: July 2019"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i7 (4-core)",
+            "info": "Core i7 (4-core) based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core i7 (4-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (Early 2011) MacBook Pro (Late 2011)",
+                            "info": "Clock speed (GHz): 2.0–2.5\nL2 cache (KB): 4×256\nL3 cache (MB): 6–8\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: March 2011\nDiscontinued: June 2012"
+                        },
+                        {
+                            "name": "MacBook Pro (Mid 2012)",
+                            "info": "Clock speed (GHz): 2.3–2.8\nL2 cache (KB): 4×256\nL3 cache (MB): 6–8\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: June 2012\nDiscontinued: October 2013"
+                        },
+                        {
+                            "name": "MacBook Pro (Late 2013) MacBook Pro (Mid 2014) MacBook Pro (Mid 2015)",
+                            "info": "Clock speed (GHz): 2.0–2.8\nL2 cache (KB): 4×256\nL3 cache (MB): 6\nL4 cache (MB): 128\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: October 2013\nDiscontinued: July 2018"
+                        },
+                        {
+                            "name": "MacBook Pro (2016)",
+                            "info": "Clock speed (GHz): 2.6–2.9\nL2 cache (KB): 4×256\nL3 cache (MB): 6–8\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: November 2016\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "MacBook Pro (2017)",
+                            "info": "Clock speed (GHz): 2.8–2.9\nL2 cache (KB): 4×256\nL3 cache (MB): 6–8\nTDP (W): 45\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: June 2017\nDiscontinued: July 2018"
+                        },
+                        {
+                            "name": "MacBook Pro (2018) MacBook Pro (2019)",
+                            "info": "Clock speed (GHz): 2.7–2.8\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nL4 cache (MB): 128\nTDP (W): 28\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: July 2018\nDiscontinued: May 2020"
+                        },
+                        {
+                            "name": "MacBook Pro (2019) MacBook Pro (2020)",
+                            "info": "Clock speed (GHz): 1.7\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nL4 cache (MB): 128\nTDP (W): 15\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: July 2019\nDiscontinued: November 2020"
+                        },
+                        {
+                            "name": "MacBook Pro (2020)",
+                            "info": "Clock speed (GHz): 2.3\nL2 cache (KB): 4×512\nL3 cache (MB): 8\nTDP (W): 28\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: May 2020\nDiscontinued: October 2021"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i7 (4-core)",
+                    "children": [
+                        {
+                            "name": "iMac (Mid 2011)",
+                            "info": "Clock speed (GHz): 2.8–3.4\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: May 2011\nDiscontinued: October 2012"
+                        },
+                        {
+                            "name": "iMac (Late 2012)",
+                            "info": "Clock speed (GHz): 3.1–3.4\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: October 2012\nDiscontinued: September 2013"
+                        },
+                        {
+                            "name": "iMac (Late 2013)",
+                            "info": "Clock speed (GHz): 3.1–4.0\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nL4 cache (MB): —\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: September 2013\nDiscontinued: October 2015"
+                        },
+                        {
+                            "name": "iMac (Late 2015)",
+                            "info": "Clock speed (GHz): 3.3\nL2 cache (KB): 4×256\nL3 cache (MB): 6\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: October 2015\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "iMac (Late 2015)",
+                            "info": "Clock speed (GHz): 4.0\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: October 2015\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "iMac (2017)",
+                            "info": "Clock speed (GHz): 3.6–4.2\nL2 cache (KB): 4×256\nL3 cache (MB): 8\nTDP (W): 65–91\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: June 2017\nDiscontinued: March 2019"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core i7 (4-core)",
+                    "children": [
+                        {
+                            "name": "Mac mini Server (Mid 2011)",
+                            "info": "Clock speed (GHz): 2.0\nL2 cache (KB): 4×256\nL3 cache (MB): 6\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: July 2011\nDiscontinued: October 2012"
+                        },
+                        {
+                            "name": "Mac mini (Late 2012)",
+                            "info": "Clock speed (GHz): 2.7\nL2 cache (KB): 4×256\nL3 cache (MB): 6\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: October 2012\nDiscontinued: October 2014"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Core i7 (4-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Air (2020)",
+                            "info": "Clock speed (GHz): 1.2\nL2 cache (KB): 4×512\nL3 cache (MB): 8\nTDP (W): 10\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: March 2020\nDiscontinued: November 2020"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i3 (2-core)",
+            "info": "Core i3 (2-core) based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i3 (2-core)",
+                    "children": [
+                        {
+                            "name": "iMac (Late 2011 education only)",
+                            "info": "Clock speed (GHz): 3.1\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: February 2011\nDiscontinued: ?"
+                        },
+                        {
+                            "name": "iMac (Early 2013 education-only)",
+                            "info": "Clock speed (GHz): 3.3\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: No\nIntroduced: March 2013\nDiscontinued: June 2014"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Core i3 (2-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Air (2020)",
+                            "info": "Clock speed (GHz): 1.1\nL2 cache (KB): 2×512\nL3 cache (MB): 4\nTDP (W): 9\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: March 2020\nDiscontinued: November 2020"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i5 (4-core)",
+            "info": "Core i5 (4-core) based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i5 (4-core)",
+                    "children": [
+                        {
+                            "name": "iMac (Mid 2011)",
+                            "info": "Clock speed (GHz): 2.5–3.1\nL2 cache (KB): 4×256\nL3 cache (MB): 6\nCores per CPU: 4\nHT: No\nITB: Yes\nIntroduced: May 2011\nDiscontinued: October 2012"
+                        },
+                        {
+                            "name": "iMac (Late 2012)",
+                            "info": "Clock speed (GHz): 2.7–3.2\nL2 cache (KB): 2×256\nL3 cache (MB): 6\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: October 2012\nDiscontinued: September 2013"
+                        },
+                        {
+                            "name": "iMac (Late 2013)",
+                            "info": "Clock speed (GHz): 2.7–3.5\nL2 cache (KB): 4×256\nL3 cache (MB): 4–6\nL4 cache (MB): —\nCores per CPU: 4\nHT: No\nITB: Yes\nIntroduced: September 2013\nDiscontinued: October 2015"
+                        },
+                        {
+                            "name": "iMac (Late 2015)",
+                            "info": "Clock speed (GHz): 2.8–3.1\nL2 cache (KB): 4×256\nL3 cache (MB): 4\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: October 2015\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "iMac (Late 2015)",
+                            "info": "Clock speed (GHz): 3.2–3.3\nL2 cache (KB): 4×256\nL3 cache (MB): 6\nCores per CPU: 4\nHT: No\nITB: Yes\nIntroduced: October 2015\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "iMac (2017)",
+                            "info": "Clock speed (GHz): 3.0–3.8\nL2 cache (KB): 4×256\nL3 cache (MB): 6\nTDP (W): 65–91\nCores per CPU: 4\nHT: No\nITB: Yes\nIntroduced: June 2017\nDiscontinued: March 2019"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core i5 (4-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (Mid 2012)",
+                            "info": "Clock speed (GHz): 2.3\nL2 cache (KB): 4×256\nL3 cache (MB): 3\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: June 2012\nDiscontinued: October 2013"
+                        },
+                        {
+                            "name": "MacBook Pro (2018) MacBook Pro (2019)",
+                            "info": "Clock speed (GHz): 2.3–2.4\nL2 cache (KB): 4×256\nL3 cache (MB): 6\nL4 cache (MB): 128\nTDP (W): 28\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: July 2018\nDiscontinued: May 2020"
+                        },
+                        {
+                            "name": "MacBook Pro (2019) MacBook Pro (2020)",
+                            "info": "Clock speed (GHz): 1.4\nL2 cache (KB): 4×256\nL3 cache (MB): 6\nL4 cache (MB): 128\nTDP (W): 15\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: July 2019\nDiscontinued: November 2020"
+                        },
+                        {
+                            "name": "MacBook Pro (2020)",
+                            "info": "Clock speed (GHz): 2.0\nL2 cache (KB): 4×512\nL3 cache (MB): 6\nTDP (W): 28\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: May 2020\nDiscontinued: October 2021"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Core i5 (4-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Air (2020)",
+                            "info": "Clock speed (GHz): 1.1\nL2 cache (KB): 4×512\nL3 cache (MB): 6\nTDP (W): 10\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: March 2020\nDiscontinued: November 2020"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i5 CULV (2-core)",
+            "info": "Core i5 CULV (2-core) based computers",
+            "children": [
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Core i5 CULV (2-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Air (Mid 2011)",
+                            "info": "Clock speed (GHz): 1.6–1.7\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: July 2011\nDiscontinued: June 2012"
+                        },
+                        {
+                            "name": "MacBook Air (Mid 2012)",
+                            "info": "Clock speed (GHz): 1.7–1.8\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2012\nDiscontinued: June 2013"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i7 CULV (2-core)",
+            "info": "Core i7 CULV (2-core) based computers",
+            "children": [
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Core i7 CULV (2-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Air (Mid 2011)",
+                            "info": "Clock speed (GHz): 1.8\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: July 2011\nDiscontinued: June 2012"
+                        },
+                        {
+                            "name": "MacBook Air (Mid 2012)",
+                            "info": "Clock speed (GHz): 2.0\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2012\nDiscontinued: June 2013"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Xeon E5 v2",
+            "info": "Xeon E5 v2 based computers",
+            "children": [
+                {
+                    "name": "Mac Pro",
+                    "info": "Mac Pro machines based on Xeon E5 v2",
+                    "children": [
+                        {
+                            "name": "Mac Pro (Late 2013)",
+                            "info": "Clock speed (GHz): 3.7\nL2 cache (KB): 4×256\nL3 cache (MB): 10\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: December 2013\nDiscontinued: April 2017"
+                        },
+                        {
+                            "name": "Mac Pro (Late 2013)",
+                            "info": "Clock speed (GHz): 3.5\nL2 cache (KB): 6×256\nL3 cache (MB): 12\nCores per CPU: 6\nHT: Yes\nITB: Yes\nIntroduced: December 2013\nDiscontinued: December 2019"
+                        },
+                        {
+                            "name": "Mac Pro (Late 2013)",
+                            "info": "Clock speed (GHz): 3.0\nL2 cache (KB): 8×256\nL3 cache (MB): 25\nCores per CPU: 8\nHT: Yes\nITB: Yes\nIntroduced: December 2013\nDiscontinued: December 2019"
+                        },
+                        {
+                            "name": "Mac Pro (Late 2013)",
+                            "info": "Clock speed (GHz): 2.7\nL2 cache (KB): 12×256\nL3 cache (MB): 30\nCores per CPU: 12\nHT: Yes\nITB: Yes\nIntroduced: December 2013\nDiscontinued: December 2019"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i5 ULT (2-core)",
+            "info": "Core i5 ULT (2-core) based computers",
+            "children": [
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Core i5 ULT (2-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Air (Mid 2013) MacBook Air (Early 2014)",
+                            "info": "Clock speed (GHz): 1.3–1.4\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nL4 cache (MB): —\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2013\nDiscontinued: March 2015"
+                        },
+                        {
+                            "name": "MacBook Air (Early 2015)",
+                            "info": "Clock speed (GHz): 1.6\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: March 2015\nDiscontinued: June 2017"
+                        },
+                        {
+                            "name": "MacBook Air (2017)",
+                            "info": "Clock speed (GHz): 1.8\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2017\nDiscontinued: July 2019"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i5 ULT (2-core)",
+                    "children": [
+                        {
+                            "name": "iMac (Late 2013)",
+                            "info": "Clock speed (GHz): 1.4\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nL4 cache (MB): —\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2014\nDiscontinued: October 2015"
+                        },
+                        {
+                            "name": "iMac (Late 2015)",
+                            "info": "Clock speed (GHz): 1.6\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: October 2015\nDiscontinued: June 2017"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core i5 ULT (2-core)",
+                    "children": [
+                        {
+                            "name": "Mac mini (Late 2014)",
+                            "info": "Clock speed (GHz): 1.4–2.8\nL2 cache (KB): 2×256\nL3 cache (MB): 3\nL4 cache (MB): —\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: October 2014\nDiscontinued: October 2018"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i7 ULT (2-core)",
+            "info": "Core i7 ULT (2-core) based computers",
+            "children": [
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Core i7 ULT (2-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Air (Mid 2013) MacBook Air (Early 2014)",
+                            "info": "Clock speed (GHz): 1.7\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nL4 cache (MB): —\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2013\nDiscontinued: March 2015"
+                        },
+                        {
+                            "name": "MacBook Air (Early 2015) MacBook Air (2017)",
+                            "info": "Clock speed (GHz): 2.2\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: March 2015\nDiscontinued: July 2019"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core i7 ULT (2-core)",
+                    "children": [
+                        {
+                            "name": "Mac mini (Late 2014)",
+                            "info": "Clock speed (GHz): 3.0\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nL4 cache (MB): —\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: October 2014\nDiscontinued: October 2018"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core M",
+            "info": "Core M based computers",
+            "children": [
+                {
+                    "name": "MacBook",
+                    "info": "MacBook machines based on Core M",
+                    "children": [
+                        {
+                            "name": "MacBook (Early 2015)",
+                            "info": "Clock speed (GHz): 1.1–1.3\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: April 2015\nDiscontinued: April 2016"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core m3, m5, m7",
+            "info": "Core m3, m5, m7 based computers",
+            "children": [
+                {
+                    "name": "MacBook",
+                    "info": "MacBook machines based on Core m3, m5, m7",
+                    "children": [
+                        {
+                            "name": "MacBook (Early 2016)",
+                            "info": "Clock speed (GHz): 1.1–1.3\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: April 2016\nDiscontinued: June 2017"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Xeon W",
+            "info": "Xeon W based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Xeon W",
+                    "children": [
+                        {
+                            "name": "iMac Pro (2017)",
+                            "info": "Clock speed (GHz): 2.3\nL2 cache (KB): 18×1024\nL3 cache (MB): 24.75\nCores per CPU: 18\nHT: Yes\nITB: Yes\nIntroduced: December 2017\nDiscontinued: March 2021"
+                        },
+                        {
+                            "name": "iMac Pro (2017)",
+                            "info": "Clock speed (GHz): 2.5\nL2 cache (KB): 14×1024\nL3 cache (MB): 19.25\nCores per CPU: 14\nHT: Yes\nITB: Yes\nIntroduced: December 2017\nDiscontinued: March 2021"
+                        },
+                        {
+                            "name": "iMac Pro (2017)",
+                            "info": "Clock speed (GHz): 3.0\nL2 cache (KB): 10×1024\nL3 cache (MB): 13.75\nCores per CPU: 10\nHT: Yes\nITB: Yes\nIntroduced: December 2017\nDiscontinued: March 2021"
+                        },
+                        {
+                            "name": "iMac Pro (2017)",
+                            "info": "Clock speed (GHz): 3.2\nL2 cache (KB): 8×1024\nL3 cache (MB): 11\nCores per CPU: 8\nHT: Yes\nITB: Yes\nIntroduced: December 2017\nDiscontinued: March 2021"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Pro",
+                    "info": "Mac Pro machines based on Xeon W",
+                    "children": [
+                        {
+                            "name": "Mac Pro (2019)",
+                            "info": "Clock speed (GHz): 2.5\nL2 cache (KB): 28×1024\nL3 cache (MB): 38.5\nTDP (W): 205\nCores per CPU: 28\nHT: Yes\nITB: Yes\nIntroduced: December 2019\nDiscontinued: June 2023"
+                        },
+                        {
+                            "name": "Mac Pro (2019)",
+                            "info": "Clock speed (GHz): 2.7\nL2 cache (KB): 24×1024\nL3 cache (MB): 33.0\nTDP (W): 205\nCores per CPU: 24\nHT: Yes\nITB: Yes\nIntroduced: December 2019\nDiscontinued: June 2023"
+                        },
+                        {
+                            "name": "Mac Pro (2019)",
+                            "info": "Clock speed (GHz): 3.2\nL2 cache (KB): 16×1024\nL3 cache (MB): 22.0\nTDP (W): 205\nCores per CPU: 16\nHT: Yes\nITB: Yes\nIntroduced: December 2019\nDiscontinued: June 2023"
+                        },
+                        {
+                            "name": "Mac Pro (2019)",
+                            "info": "Clock speed (GHz): 3.3\nL2 cache (KB): 12×1024\nL3 cache (MB): 19.25\nTDP (W): 180\nCores per CPU: 12\nHT: Yes\nITB: Yes\nIntroduced: December 2019\nDiscontinued: June 2023"
+                        },
+                        {
+                            "name": "Mac Pro (2019)",
+                            "info": "Clock speed (GHz): 3.5\nL2 cache (KB): 8×1024\nL3 cache (MB): 16.5\nTDP (W): 160\nCores per CPU: 8\nHT: Yes\nITB: Yes\nIntroduced: December 2019\nDiscontinued: June 2023"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core m3",
+            "info": "Core m3 based computers",
+            "children": [
+                {
+                    "name": "MacBook",
+                    "info": "MacBook machines based on Core m3",
+                    "children": [
+                        {
+                            "name": "MacBook (2017)",
+                            "info": "Clock speed (GHz): 1.2\nL2 cache (KB): 2×256\nL3 cache (MB): 4\nTDP (W): 4.5\nCores per CPU: 2\nHT: Yes\nITB: Yes\nIntroduced: June 2017\nDiscontinued: July 2019"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i3 (4-core)",
+            "info": "Core i3 (4-core) based computers",
+            "children": [
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core i3 (4-core)",
+                    "children": [
+                        {
+                            "name": "Mac Mini (2018)",
+                            "info": "Clock speed (GHz): 3.6\nL2 cache (KB): 4×256\nL3 cache (MB): 6\nL4 cache (MB): —\nTDP (W): 65\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: November 2018\nDiscontinued: November 2020"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i3 (4-core)",
+                    "children": [
+                        {
+                            "name": "iMac (2019)",
+                            "info": "Clock speed (GHz): 3.6\nL2 cache (KB): 4×256\nL3 cache (MB): 6\nL4 cache (MB): —\nTDP (W): 65\nCores per CPU: 4\nHT: Yes\nITB: Yes\nIntroduced: March 2019\nDiscontinued: April 2021"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i5 (6-core)",
+            "info": "Core i5 (6-core) based computers",
+            "children": [
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core i5 (6-core)",
+                    "children": [
+                        {
+                            "name": "Mac Mini (2018)",
+                            "info": "Clock speed (GHz): 3.0\nL2 cache (KB): 6×256\nL3 cache (MB): 9\nL4 cache (MB): —\nTDP (W): 65\nCores per CPU: 6\nHT: Yes\nITB: Yes\nIntroduced: November 2018\nDiscontinued: January 2023"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i5 (6-core)",
+                    "children": [
+                        {
+                            "name": "iMac (2019)",
+                            "info": "Clock speed (GHz): 3.0–3.1\nL2 cache (KB): 6×256\nL3 cache (MB): 9\nL4 cache (MB): —\nTDP (W): 65\nCores per CPU: 6\nHT: Yes\nITB: Yes\nIntroduced: March 2019\nDiscontinued: April 2021"
+                        },
+                        {
+                            "name": "iMac (2019)",
+                            "info": "Clock speed (GHz): 3.7\nL2 cache (KB): 6×256\nL3 cache (MB): 9\nL4 cache (MB): —\nTDP (W): 95\nCores per CPU: 6\nHT: Yes\nITB: Yes\nIntroduced: March 2019\nDiscontinued: August 2020"
+                        },
+                        {
+                            "name": "iMac (2020)",
+                            "info": "Clock speed (GHz): 3.1–3.3\nL2 cache (KB): 6×256\nL3 cache (MB): 12\nTDP (W): 65\nCores per CPU: 6\nHT: Yes\nITB: Yes\nIntroduced: August 2020\nDiscontinued: March 2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i7 (6-core)",
+            "info": "Core i7 (6-core) based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core i7 (6-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (2018)",
+                            "info": "Clock speed (GHz): 2.2–2.6\nL2 cache (KB): 6×256\nL3 cache (MB): 9\nL4 cache (MB): —\nTDP (W): 45\nCores per CPU: 6\nHT: Yes\nITB: Yes\nIntroduced: July 2018\nDiscontinued: May 2019"
+                        },
+                        {
+                            "name": "MacBook Pro (2019) MacBook Pro (16-inch, 2019)",
+                            "info": "Clock speed (GHz): 2.6\nL2 cache (KB): 6×256\nL3 cache (MB): 12\nL4 cache (MB): —\nTDP (W): 45\nCores per CPU: 6\nHT: Yes\nITB: Yes\nIntroduced: May 2019\nDiscontinued: October 2021"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Core i7 (6-core)",
+                    "children": [
+                        {
+                            "name": "Mac Mini (2018)",
+                            "info": "Clock speed (GHz): 3.2\nL2 cache (KB): 6×256\nL3 cache (MB): 12\nL4 cache (MB): —\nTDP (W): 65\nCores per CPU: 6\nHT: Yes\nITB: Yes\nIntroduced: November 2018\nDiscontinued: January 2023"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i7 (6-core)",
+                    "children": [
+                        {
+                            "name": "iMac (2019)",
+                            "info": "Clock speed (GHz): 3.2\nL2 cache (KB): 6×256\nL3 cache (MB): 12\nL4 cache (MB): —\nTDP (W): 65\nCores per CPU: 6\nHT: Yes\nITB: Yes\nIntroduced: March 2019\nDiscontinued: April 2021"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i9 (6-core)",
+            "info": "Core i9 (6-core) based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core i9 (6-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (2018)",
+                            "info": "Clock speed (GHz): 2.9\nL2 cache (KB): 6×256\nL3 cache (MB): 12\nL4 cache (MB): —\nTDP (W): 45\nCores per CPU: 6\nHT: Yes\nITB: Yes\nIntroduced: July 2018\nDiscontinued: May 2019"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i9 (8-core)",
+            "info": "Core i9 (8-core) based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Core i9 (8-core)",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (2019) MacBook Pro (16-inch, 2019)",
+                            "info": "Clock speed (GHz): 2.3–2.4\nL2 cache (KB): 8×256\nL3 cache (MB): 16\nL4 cache (MB): —\nTDP (W): 45\nCores per CPU: 8\nHT: Yes\nITB: Yes\nIntroduced: May 2019\nDiscontinued: October 2021"
+                        }
+                    ]
+                },
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i9 (8-core)",
+                    "children": [
+                        {
+                            "name": "iMac (2019)",
+                            "info": "Clock speed (GHz): 3.6\nL2 cache (KB): 8×256\nL3 cache (MB): 16\nL4 cache (MB): —\nTDP (W): 95\nCores per CPU: 8\nHT: Yes\nITB: Yes\nIntroduced: March 2019\nDiscontinued: August 2020"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i7 (8-core)",
+            "info": "Core i7 (8-core) based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i7 (8-core)",
+                    "children": [
+                        {
+                            "name": "iMac (2020)",
+                            "info": "Clock speed (GHz): 3.8\nL2 cache (KB): 8×256\nL3 cache (MB): 16\nTDP (W): 125\nCores per CPU: 8\nHT: Yes\nITB: Yes\nIntroduced: August 2020\nDiscontinued: March 2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core i9 (10- core)",
+            "info": "Core i9 (10- core) based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Core i9 (10- core)",
+                    "children": [
+                        {
+                            "name": "iMac (2020)",
+                            "info": "Clock speed (GHz): 3.6\nL2 cache (KB): 10×256\nL3 cache (MB): 20\nTDP (W): 125\nCores per CPU: 10\nHT: Yes\nITB: Yes\nIntroduced: August 2020\nDiscontinued: March 2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Apple M1",
+            "info": "Apple M1 based computers",
+            "children": [
+                {
+                    "name": "iMac",
+                    "info": "iMac machines based on Apple M1",
+                    "children": [
+                        {
+                            "name": "iMac (24-inch, M1, 2021)",
+                            "info": "CPU Cores: 8\nGPU Cores: 7–8\nNeural Engine Cores: 16\nIntroduced: May 2021\nDiscontinued: current"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Apple M1",
+                    "children": [
+                        {
+                            "name": "Mac mini (M1, 2020)",
+                            "info": "CPU Cores: 8\nGPU Cores: 8\nNeural Engine Cores: 16\nIntroduced: November 2020\nDiscontinued: January 2023"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Apple M1",
+                    "children": [
+                        {
+                            "name": "MacBook Air (M1, 2020)",
+                            "info": "CPU Cores: 8\nGPU Cores: 7–8\nNeural Engine Cores: 16\nIntroduced: November 2020\nDiscontinued: current"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Apple M1",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (13-inch, M1, 2020)",
+                            "info": "CPU Cores: 8\nGPU Cores: 8\nNeural Engine Cores: 16\nIntroduced: November 2020\nDiscontinued: June 2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Apple M1 Pro",
+            "info": "Apple M1 Pro based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Apple M1 Pro",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (14-inch, 2021)",
+                            "info": "CPU Cores: 8–10\nGPU Cores: 14–16\nNeural Engine Cores: 16\nIntroduced: October 2021\nDiscontinued: January 2023"
+                        },
+                        {
+                            "name": "MacBook Pro (16-inch, 2021)",
+                            "info": "CPU Cores: 10\nGPU Cores: 16\nNeural Engine Cores: 16\nIntroduced: October 2021\nDiscontinued: January 2023"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Apple M1 Max",
+            "info": "Apple M1 Max based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Apple M1 Max",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (14-inch, 2021) MacBook Pro (16-inch, 2021)",
+                            "info": "CPU Cores: 10\nGPU Cores: 24–32\nNeural Engine Cores: 16\nIntroduced: October 2021\nDiscontinued: January 2023"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Studio",
+                    "info": "Mac Studio machines based on Apple M1 Max",
+                    "children": [
+                        {
+                            "name": "Mac Studio (2022)",
+                            "info": "CPU Cores: 10\nGPU Cores: 24–32\nNeural Engine Cores: 16\nIntroduced: March 2022\nDiscontinued: June 2023"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Apple M1 Ultra",
+            "info": "Apple M1 Ultra based computers",
+            "children": [
+                {
+                    "name": "Mac Studio",
+                    "info": "Mac Studio machines based on Apple M1 Ultra",
+                    "children": [
+                        {
+                            "name": "Mac Studio (2022)",
+                            "info": "CPU Cores: 20\nGPU Cores: 48–64\nNeural Engine Cores: 32\nIntroduced: March 2022\nDiscontinued: June 2023"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Apple M2",
+            "info": "Apple M2 based computers",
+            "children": [
+                {
+                    "name": "MacBook Air",
+                    "info": "MacBook Air machines based on Apple M2",
+                    "children": [
+                        {
+                            "name": "MacBook Air (13-inch, M2, 2022)",
+                            "info": "CPU Cores: 8\nGPU Cores: 8–10\nNeural Engine Cores: 16\nIntroduced: July 2022\nDiscontinued: current"
+                        },
+                        {
+                            "name": "MacBook Air (15-inch, M2, 2023)",
+                            "info": "CPU Cores: 8\nGPU Cores: 10\nNeural Engine Cores: 16\nIntroduced: June 2023\nDiscontinued: current"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Apple M2",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (13-inch, M2, 2022)",
+                            "info": "CPU Cores: 8\nGPU Cores: 10\nNeural Engine Cores: 16\nIntroduced: June 2022\nDiscontinued: current"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Apple M2",
+                    "children": [
+                        {
+                            "name": "Mac mini (2023)",
+                            "info": "CPU Cores: 8\nGPU Cores: 10\nNeural Engine Cores: 16\nIntroduced: January 2023\nDiscontinued: current"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Apple M2 Pro",
+            "info": "Apple M2 Pro based computers",
+            "children": [
+                {
+                    "name": "Mac Mini",
+                    "info": "Mac Mini machines based on Apple M2 Pro",
+                    "children": [
+                        {
+                            "name": "Mac mini (2023)",
+                            "info": "CPU Cores: 10–12\nGPU Cores: 16–19\nNeural Engine Cores: 16\nIntroduced: January 2023\nDiscontinued: current"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Apple M2 Pro",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (14-inch, 2023)",
+                            "info": "CPU Cores: 10–12\nGPU Cores: 16–19\nNeural Engine Cores: 16\nIntroduced: January 2023\nDiscontinued: current"
+                        },
+                        {
+                            "name": "MacBook Pro (16-inch, 2023)",
+                            "info": "CPU Cores: 12\nGPU Cores: 19\nNeural Engine Cores: 16\nIntroduced: January 2023\nDiscontinued: current"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Apple M2 Max",
+            "info": "Apple M2 Max based computers",
+            "children": [
+                {
+                    "name": "MacBook Pro",
+                    "info": "MacBook Pro machines based on Apple M2 Max",
+                    "children": [
+                        {
+                            "name": "MacBook Pro (14-inch, 2023) MacBook Pro (16-inch, 2023)",
+                            "info": "CPU Cores: 12\nGPU Cores: 30–38\nNeural Engine Cores: 16\nIntroduced: January 2023\nDiscontinued: current"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Studio",
+                    "info": "Mac Studio machines based on Apple M2 Max",
+                    "children": [
+                        {
+                            "name": "Mac Studio (2023)",
+                            "info": "CPU Cores: 12\nGPU Cores: 30–38\nNeural Engine Cores: 16\nIntroduced: June 2023\nDiscontinued: current"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Apple M2 Ultra",
+            "info": "Apple M2 Ultra based computers",
+            "children": [
+                {
+                    "name": "Mac Studio",
+                    "info": "Mac Studio machines based on Apple M2 Ultra",
+                    "children": [
+                        {
+                            "name": "Mac Studio (2023)",
+                            "info": "CPU Cores: 24\nGPU Cores: 60–76\nNeural Engine Cores: 32\nIntroduced: June 2023\nDiscontinued: current"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac Pro",
+                    "info": "Mac Pro machines based on Apple M2 Ultra",
+                    "children": [
+                        {
+                            "name": "Mac Pro (2023)",
+                            "info": "CPU Cores: 24\nGPU Cores: 60–76\nNeural Engine Cores: 32\nIntroduced: June 2023\nDiscontinued: current"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "info": "Computers made by Apple"
+}

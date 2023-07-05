@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>D3-based Collapsible Folder Tree</title>
+    <link rel="icon" href="data:,">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+    <link href="../lib/folder_tree.css" rel="stylesheet">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+<body>
+    <div id="container1" style="margin: 10px"></div>
+    <div id="container2" style="margin: 10px"></div>
+    <script type="module">
+        import * as folder_tree from "../lib/folder_tree.js"
+        folder_tree.FolderTree(d3, "container1", 20, "info").load("apple.json");
+        folder_tree.FolderTree(d3, "container2", 20, null).load("cladogram.json");
+    </script>
+</body>
+</html>

@@ -1,0 +1,116 @@
+{
+    "name": "Opisthokonta",
+    "info": "Lineage split 1,300 mya",
+    "children": [
+        {
+            "name": "Holomycota",
+            "info": "(inc. fungi)"
+        },
+        {
+            "name": "Holozoa",
+            "info": "Lineage split 1,100 mya",
+            "children": [
+                {
+                    "name": "Ichthyosporea",
+                    "info": ""
+                },
+                {
+                    "name": "Pluriformea",
+                    "info": ""
+                },
+                {
+                    "name": "Filozoa",
+                    "info": "",
+                    "children": [
+                        {
+                            "name": "Filasterea",
+                            "info": ""
+                        },
+                        {
+                            "name": "Choanozoa",
+                            "info": "Lineage split 950 mya",
+                            "children": [
+                                {
+                                    "name": "Choanoflagellatea",
+                                    "info": ""
+                                },
+                                {
+                                    "name": "Animalia",
+                                    "info":"Lineage split 760 mya",
+                                    "children": [
+                                        {
+                                            "name": "Porifera",
+                                            "info": ""
+                                        },
+                                        {
+                                            "name": "Ctenophora",
+                                            "info": ""
+                                        },
+                                        {
+                                            "name": "ParaHoxozoa",
+                                            "info": "hox genes",
+                                            "children": [
+                                                {
+                                                    "name": "Placozoa",
+                                                    "info": ""
+                                                },
+                                                {
+                                                    "name": "Cnidaria",
+                                                    "info": ""
+                                                },
+                                                {
+                                                    "name": "Bilateria",
+                                                    "info": "Symmetry, embryo",
+                                                    "children": [
+                                                        {
+                                                            "name": "Xenacoelomorpha",
+                                                            "info": ""
+                                                        },
+                                                        {
+                                                            "name": "Nephrozoa",
+                                                            "info": "",
+                                                            "children": [
+                                                                {
+                                                                    "name": "Deuterostomia",
+                                                                    "info": "",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Ambulacraria",
+                                                                            "info": ""
+                                                                        },
+                                                                        {
+                                                                            "name": "Chordata",
+                                                                            "info": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Protostomia",
+                                                                    "info": "Blastopore mouth",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Ecdysozoa",
+                                                                            "info": ""
+                                                                        },
+                                                                        {
+                                                                            "name": "Spiralia",
+                                                                            "info": ""
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
